@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 6df70b77c2b5e534198f83acac282dba
+timeCreated: 1511167141
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - bookButton: {fileID: 1579665139734348, guid: 6af32df1f3b7c044dba300f3ff434488,
+      type: 2}
+  - description: {instanceID: 0}
+  - pageNumberL: {instanceID: 0}
+  - pageNumberR: {instanceID: 0}
+  - choices: {instanceID: 0}
+  - book: {instanceID: 0}
+  - pageMat: {fileID: 2100000, guid: 28e7b10c53c4ab5459eda08dfde19c66, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

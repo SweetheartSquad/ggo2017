@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b60b7f750664dec4b936db579f14d080
+timeCreated: 1510894242
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - pageFlip: {fileID: 1743612463895068, guid: 2e3ff7a4f6ae77a4c84464d3c65ea3b8, type: 2}
+  - pageMat: {fileID: 2100000, guid: 28e7b10c53c4ab5459eda08dfde19c66, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

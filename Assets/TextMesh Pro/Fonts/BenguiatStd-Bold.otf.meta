@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 17fd8b95ce3c83b41875310b667a2ccf
+timeCreated: 1510472506
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: ITC Benguiat Std
+  fontNames:
+  - ITC Benguiat Std
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 09280bccd1eb5ef40bc7498ee8ee92e2, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,18 @@
+title: Start
+---
+Test yarn file
+
+[[test 1 turn to page #.|test1]]
+[[test 1 turn to page #.|test2]]
+===
+title: test1
+---
+Test 1
+
+[[To restart and try again, turn to page #.|Start]]
+===
+title: test2
+---
+Test 2
+
+[[To restart and try again, turn to page #.|Start]]
