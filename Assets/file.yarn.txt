@@ -1,18 +1,108 @@
 title: Start
 ---
-Test yarn file
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+<nobr></nobr><align="center"><u><size=72><b>WARNING!!!</b></size></u></align>
+<nobr></nobr>Do not read this book straight through from beginning to end! These pages contain many different adventures you may have while doing *something related to the title of the game*. From time to time as you read along, you will be asked to make decisions and choices. Your choices may lead to success or disaster!
+ 
+<nobr></nobr>The adventures you take are a result of your choice. <i>You</i> are responsible because <i>you</i> choose! After you make your choice, follow the instructions to see what happens to you next.
+ 
+<nobr></nobr>Remember—you cannot go back! Think carefully before you make a move! One mistake can be your last... or it <i>may</i> lead you to fame and fortune!
 
-[[test 1 turn to page #.|test1]]
-[[test 1 turn to page #.|test2]]
+[[To start the adventure, turn to page #.|Start2]]
 ===
-title: test1
+title: Start2
 ---
-Test 1
+It doesn't take an expert to realize that these tunnels are ancient. Massive spires of rock and mineral hang from the ceiling and jut out of the ground, their faces lined with the many layers of sediment deposits and smoothed with erosion.
+As you continue walking, they eventually open up into a vast underground lake, its bed pock-marked with dozens of channels leading who-knows-where. The surface of the lake is so blue as to appear glowing in comparison to the dim lighting you've had to navigate thus far. You've heard of species of bioluminescent algae said to produce a similar effect, though they usually require a steady cycle of daylight. Perhaps something else is causing the brightness?
+Each footstep you take as you make your way towards the water's edge to investigate triggers a trailing cacophony of echoes, sounds bouncing and reverberating throughout the vast caverns. You stop to enjoy the acoustics for a moment, and suddenly realize that the footsteps didn't stop until a moment after you had planted your feet. You're being followed!
+Listening carefully, you try to pin-point the source of the other steps. The natural reverb makes it difficult to be certain, but you estimate there to be two adult men in synthetic leather moccasins and pure cotton socks trailing you, at least one of which is almost within striking distance. You could try to take advantage of the fact that they've lost the element of surprise to launch an immediate counter-offensive, or you could go for a dive and try to lose them in the depths below.
+
+[[If you stand your ground and fight, turn to page #.|fight]]
+[[If you think you're outmatched and flee deeper into the caverns, turn to page #.|run]]
+===
+title: fight
+---
+If these punks think they can get the jump on you, they've got another thing coming! Having taken stock of the situation, you draw your trusty Smith & Wesson Model 40 snub-nosed revolver from the folds of your jacket in a split-second, but your opponents are even faster: before you even have a chance to line up an attack, a lightning-quick karate chop knocks the weapon from your hand and sends it clattering along the stone floor to the left.
+Not one to give up easily, you grab your attacker's arm and use his weight to judo flip him over your shoulder. The towering man is sent tumbling through the air in a magnificent arc, and there's a thundering <smallcaps>*smack*</smallcaps> and the wheeze of forced exhalation as your assailant lands flat on his back. Not bad, but the fight's not over yet.
+You adopt a defensive stance as you turn to face the remaining attacker, only to find yourself staring down the twin barrels of the Remington Over-Under Double Derringer he has levelled directly at your forehead. There's nothing you can do but meekly raise your arms in surrender as the groaning brute behind you gets back on his feet and retrieves your lost weapon. Well, <i>now</i> the fight is over...
+Your vision blackens as a bag is pulled over your head.
+
+[[Turn to page #.|captured]]
+===
+title: captured
+---
+"You won't get away with this!" you exclaim, but the men pay your complaints no mind as one grabs your wrists and ties them behind your back. A second later you feel a shove that sends you stumbling a few feet forward, and then another just as you regain your balance. Quickly deducing the intent behind this roughness, you start walking forward blindly.
+Every now and then as you make your way in darkness, another sudden push redirects you. It's far from gentle, but presumably it's better than walking face-first into a stalagmite or some other unseen hazard.
+After traveling like this for what feels like hours, the relative silence is replaced with the increasingly loud sound of machinery, and then voices (though you can't make out what they're saying). Suddenly your vision is restored as the bag is ripped off your head, and you find you are being led into a vast underground chamber nothing like the tunnels you remember entering.
+The rock walls have given way to reinforced steel plates, stretching into a massive dome above you. Bright fluorescent lights and blinking LEDs sting your eyes as you survey the surroundings: advanced technological contraptions litter the floor space, and a number of men and women in white labcoats bustle around hurriedly from monitor to monitor. The scale of this operation is enormous; who could've guessed that the ball diamond was just a front for a no-holds-barred secret subterranean base!
+Noticing a delay in your steps as you recover and take it all in, your captors give you yet another brusque push and continue the forced march towards the center of the metallic hemi-sphere. You consider your options and come to the conclusion that right now, you don't really have any—other than to play along and continue following your captors' directions. You don't know what they're planning to do with you, but you have a feeling you're about to find out.
+
+[[Turn to page #.|chamber]]
+===
+title: chamber
+---
+whoops you died
+END
 
 [[To restart and try again, turn to page #.|Start]]
 ===
-title: test2
+title: run
 ---
-Test 2
+Without giving it a second thought, you break into a dash, closing the distance between yourself and the subterranean lake in a matter of seconds, transitioning gracefully into a dive right as you reach the water's edge. No sooner than you are fully submerged, you break into a rapid breast-stroke to pull yourself even deeper into the shimmering blue waters.
+As you swim, you hear a few dull popping sounds from behind you, and a thin streak of bubbles cuts a line through the water just inches to the right of your head, accompanied by a sharp <smallcaps>*fizz*</smallcaps>. Good golly, are they actually shooting at you?!
+You continue diving deeper, forcing yourself to the bottom of the basin as quickly as you can while bullets pierce the water's surface above you. At this depth you can feel a current pulling you towards one of the underwater channels, and the closer you get the more sure you are that you won't be able to fight it if you keep going. You could give in to the current in order to get away from these amateur gunmen, or you could break free from its pull and look for an alternative means of egress.
+
+[[If you let the current whisk you away, turn to page #.|current]]
+[[If you try to escape another way, turn to page #.|nocurrent]]
+===
+title: nocurrent
+---
+either you get captured, shot or the blue stuff is acidic? depends how bad we want the bad ends to be i guess; i'll figure it out later
+END
+
+[[To restart and try again, turn to page #.|Start]]
+===
+title: current
+---
+Deciding that you'd rather risk a potential drowning over almost certain bullet wounds, you plunge yourself through the entrance of underwater channel and immediately find yourself tumbling faster and faster through a well-worn tube of stone. You notice that the blue light from the lake has been steadily fading, and that you're quickly nearing pitch black darkness now. Whatever was causing the glow must have been isolated to that central repository.
+The channel twists and turns as it goes on, occasionally slamming you into the sides and bouncing you off corners; you're going to have more than a couple bruises if this keeps up. You try to ignore the pain and focus on holding your breath. Your personal record is just over 2 minutes, but that was in your friend Sally's backyard swimming pool, not careening your way through some sort of crazy aquifer waterslide!
+The current carries you deeper and deeper underground with no signs of letting up, and just when you think you're at your lungs' limit, you feel a shock of cold air hit your left foot. Heart thumping and struggling to get your bearings after having been tossed and turned for what felt like ages, you realize that the channel is no longer filled to the top with water and there are small pockets of air whizzing by above you! It takes a couple agonizing tries to time it properly, but you manage to get another breath of air which carries you to the end of the channel, where it deposits you in a basin much like the larger lake somewhere above and behind you.
+
+[[Turn to page #.|current2]]
+===
+title: current2
+---
+Thankful for the ample supply of oxygen, you take a few moments to simply tread water and breathe deeply. The dank, stale air of the caverns may as well be a cool spring breeze after what you've been through. You briefly recall the reasons for putting yourself through that watery heck-hole and wonder if your pursuers were persistent enough to have followed suit. You're fairly certain it was narrow enough in some parts that they would have gotten stuck (sucks to be them), so whether they did or not, you should be able to relax for the time being.
+
+[[To restart and try again, turn to page #.|Start]]
+===
+title: dead
+---
+whoops you died
+END
 
 [[To restart and try again, turn to page #.|Start]]
