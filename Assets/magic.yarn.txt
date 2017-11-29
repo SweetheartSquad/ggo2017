@@ -18,7 +18,7 @@ Slowly you pull back from your parent's embrace. Their tears have left small sal
 "I've put a little surprise in your suitcase, make sure you wait until you get to your dorm room to open it!" your mother says gleefully.
 "You have about half and hour before the ship leaves. If you're hungry they should have some food on the ferry. From what I remember it wasn't the best but it'll do," your father warns.
 "Now get going. Make lots of friends!"
-You say your final goodbyes and you turn towards the ship. You see some other students have started to congregate infront of the ramp leading to the deck.
+You say your final goodbyes and you turn towards the ship. You see some other students have started to congregate in front of the ramp leading to the deck.
 
 [[If you want to head out towards the students, turn to page #.|toStudents_noBag]]
 [[If you want to explore the rest of the harbour, turn to page #.|exploreDock]]
@@ -29,7 +29,7 @@ title: weirdChild
 ---
 You stand still and don't move a muscle. You can feel your eyes drying as you stare blankly at your parents. Shame and regret fills their face.
 Quickly you realize how awkward you've made this situation, but you're too stunned to take corrective action.
-"We know you're nervous, but please try to not embarras yourself. And please try to make some friends. I know you have a difficult time but just try," your Mom says with a hint of disdain.
+"We know you're nervous, but please try to not embarrass yourself. And please try to make some friends. I know you have a difficult time but just try," your Mom says with a hint of disdain.
 You've known for a while your social skills have been lacking. Most of your friendships up to this point have been due to convenience and proximity, and your weird penchant to hang around the neighbourhood kids without saying a word.
 Maybe this will be the year, your year. The year you finally take the first steps into be a regular non-regular magical person.
 
