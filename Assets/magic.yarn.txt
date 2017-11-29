@@ -71,7 +71,12 @@ Your collapse on the ground.
 You shit yourself.
 You lose.
 
-[[If you want to sprint to the boat, turn to page #.|runToBoat_noBag]]
-[[If you want to do nothing, turn to page #.|weirdChild4]]
-[[If you want to grab your suitcase and then sprint to the boat, turn to page #.|runToBoat_withBag]]
+[[If you want to use your secret bloodline technique, turn to page #.|bloodlineReboot]]
+===
+title: bloodlineReboot
+---
+You begin to fill with self-loathing. As rage builds up inside of you you can feel the ground and air heat up around you.
+You white out.
+
+[[Turn to page #.|magicSchool]]
 ===
