@@ -20,10 +20,9 @@ Slowly you pull back from your parent's embrace. Their tears have left small sal
 "Now get going. Make lots of friends!"
 You say your final goodbyes and you turn towards the ship. You see some other students have started to congregate in front of the ramp leading to the deck.
 
-[[If you want to head out towards the students, turn to page #.|toStudents_noBag]]
+[[If you want to head out towards the students, turn to page #.|toStudents_onDock]]
 [[If you want to explore the rest of the harbour, turn to page #.|exploreDock]]
 [[If you want to do nothing, turn to page #.|weirdChild2]]
-[[If you want to grab your suitcase and then make your way to the ship like a sensible person, turn to page #.|toStudents_withBag]]
 ===
 title: weirdChild
 ---
@@ -34,10 +33,9 @@ You've known for a while your social skills have been lacking. Most of your frie
 Maybe this will be the year, your year. The year you finally take the first steps into be a regular non-regular magical person.
 
 [[If you want to break out of the prison that is your own thoughts, turn to page #.|goodChild]]
-[[If you want to head out towards the students, turn to page #.|toStudents_noBag]]
+[[If you want to head out towards the students, turn to page #.|toStudents_onDock]]
 [[If you want to explore the rest of the harbour, turn to page #.|exploreDock]]
 [[If you want to do nothing, turn to page #.|weirdChild2]]
-[[If you want to grab your suitcase and then make your way to the ship like a sensible person, turn to page #.|toStudents_withBag]]
 ===
 title: weirdChild2
 ---
@@ -46,10 +44,9 @@ You stand in place. Staring blankly ahead you hear your parents mumbling to each
 "Everything's going to be fine," your Dad attempts to say in an assuring fashion, but you guess he may have his own doubts.
 Your mother slowly reaches out her hand and nudges you in the shoulder.
 
-[[If you want to head out towards the students, turn to page #.|toStudents_noBag]]
+[[If you want to head out towards the students, turn to page #.|toStudents_onDock]]
 [[If you want to explore the rest of the harbour, turn to page #.|exploreDock]]
 [[If you want to do nothing, turn to page #.|weirdChild3]]
-[[If you want to grab your suitcase and then make your way to the ship like a sensible person, turn to page #.|toStudents_withBag]]
 ===
 title: weirdChild3
 ---
@@ -59,13 +56,12 @@ You try to lift your foot but it is firmly planted in place. Thoughts fill your 
 How you'll be throwing away the years of magic training you have gone through. About all of the work and time your parents have invested into you. All for nothing.
 Can you take that firs step
 
-[[If you want to sprint to the boat, turn to page #.|runToBoat_noBag]]
+[[If you want to sprint to the boat, turn to page #.|runToBoat]]
 [[If you want to do nothing, turn to page #.|weirdChild4]]
-[[If you want to grab your suitcase and then sprint to the boat, turn to page #.|runToBoat_withBag]]
 ===
 title: weirdChild4
 ---
-The ferry's horn sounds off again. You just won't budge. You can't. In the distance you can see the ship set sail, slowly escaping into the sunset. Tears fall to the ground behind you, and shatter like your dreams of a better life.
+The ferry's horn sounds off again. You just won't budge. You can't. In the distance you can see the ship set sail, slowly escaping into the sunrise. Tears fall to the ground behind you, and shatter like your dreams of a better life.
 
 [[If you want to use your secret bloodline technique, turn to page #.|bloodlineReboot]]
 ===
@@ -75,3 +71,12 @@ You begin to fill with self-loathing. As rage builds up inside of you you can fe
 You white out.
 
 [[Turn to page #.|magicSchool]]
+===
+title: exploreDock
+---
+The salt in the air fills your nostrils as you begin to walk around the docks. You're reminded of the summer days you spent at the beach with your family. To your right you see a boat of fishermen set off in the early morning. The seaguls hitching a ride squack in excitement. You feel the breeze of the ocean as it gently blows across your face. It fills you with determination.
+
+Suddenly the sound of the ships horn cracks through the serene setting! Time to begin your journey.
+
+[[To join the rest of the students, turn to page #.|toStudents_onDock]]
+===
