@@ -3,7 +3,7 @@ title: magicSchool
 You arrive at the docks, knees weak and palms sweaty. Since you were young you've had to keep this secret from your friends. That from the age of 5 your parents have been teaching you the magical arts.
 It doesn't really matter though. The regulars, as your parents called them, wouldn't believe you anyway. Without a word to them you left that morning to start a new chapter of your life.
 Your father shuts off the car engine and goes to the back to open the trunk to get your suitcase. You wonder why you bothered to drive here instead of using magic. Dad says it wasn't an experience you were ready for but a part of you doesn't believe him. 
-Maybe he was just used to his regular ways after living amoung them for so long. You and your mother step out of the car as your dad comes around with your suitcase.
+Maybe he was just used to his regular ways after living among them for so long. You and your mother step out of the car as your dad comes around with your suitcase.
 "You'll be taking the ferry from here," he says, pointing to the run down ship in the distance.
 "We're so proud that you were able to the top magic school in the county!", exclaims your Mom as tears slowly drip from her eyes.
 
@@ -79,4 +79,3 @@ You begin to fill with self-loathing. As rage builds up inside of you you can fe
 You white out.
 
 [[Turn to page #.|magicSchool]]
-===

@@ -416,6 +416,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   sourceText:
   - {fileID: 4900000, guid: 7880a8391f99247dc8d37ef47345a5cd, type: 3}
+  - {fileID: 4900000, guid: 53fe8b39bb3774c759da6254f34c606c, type: 3}
+  - {fileID: 4900000, guid: fc11e73ab0da078418fea3868aa58b6a, type: 3}
   stringGroups: []
   shouldOverrideLanguage: 0
   overrideLanguage: 10
