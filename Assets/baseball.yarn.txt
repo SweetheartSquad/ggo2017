@@ -41,11 +41,3 @@ After a few minutes, Miss Inglewood returns with a woman in a clean uniform. She
 "Hi, Amy!" chants the class.
 
 "Are you looking forward to the tour?" asks Amy. The class agrees enthusiastically. Amy smiles and asks the class to follow her. Laney rolls her eyes at you. You grin and shrug. You follow the rest of the class and get ready to start the tour.
-===
-title: explore1
-tags: 
-colorID: 0
-position: 159,191
----
-Empty Text
-===

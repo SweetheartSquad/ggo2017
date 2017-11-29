@@ -34,6 +34,57 @@ title: Start
 
 [[To start the adventure, turn to page #.|ball1]]
 ===
+title: explore1
+tags: 
+colorID: 0
+position: 159,191
+---
+You're no wuss, and you make sure Sally knows as much as the three of you take advantage of Miss Inglewood's absence to break off from the group waiting in the in-field and start climbing your way through the bleachers. No offense to Miss I.'s ability to plan a school trip, but you're fairly certain you don't need a boring old tour guide to know how to have fun at a baseball diamond!
+The three of you take turns sitting in the famous red seat marking the longest home run ever hit at the park and watch as your teacher and classmates follow a woman in a white uniform around the field in the distance. They stop a few times along the way, presumably to listen to the tour guide's spiel.
+Laney turns to you and Sally and whispers "Hey, do you think they'll be able to see us up here?"
+Your classmates aren't paying any attention to the bleachers at the moment, but surely the tour's going to at least mention the Lone Red Seat (seriously -- what tour wouldn't?). It is pretty far out though -- almost 500 feet -- so if you take it easy they probably won't even notice you. You're wearing red today anyways; you'll blend right in.
+
+[[If you say "Yes, we should hide", turn to page #.|explore2]]
+[[If you say "No, we're too far away", turn to page #.|caught_red_seated_ha_get_it]]
+===
+title: caught_red_seated_ha_get_it
+---
+that was dumb you got caught
+END
+
+[[To restart and try again, turn to page #.|Start]]
+===
+title: explore2
+---
+While the guide's drawing everyone's attention towards the giant green wall, you take the lead and start sneaking your way around to the other side of the bleachers. You have to hush your compatriots multiple times as they giggle their way through your clever maneuver. Peeking out from over the seats, you keep an eye on the rest of your class as they make the rounds. By the time the tour guide points out the crimson chair, your triumvirate is nowhere to be seen.
+It seems the bold bleacher was the last stop on the tour, and you watch as your classmates, like a little line of ants, file their way back into the park's interior. You're all scheduled to play a game together on the field after lunch, which means that you've got a whole hour out here to yourself!
+Sally and Laney are way ahead of you, and have already started bounding their way back down onto the grass. You chase after them, and soon enough the three of you are racing to see who can complete a lap of the diamond first. They got a head-start, but it's neck-and-neck in the last stretch, at which point it falls apart as all three of you fail to restrain yourselves from trying to dramatically slide into home base and completely undershooting.
+As you laugh and dust yourself off, Laney wanders over to the dugout and hops in. She returns wielding a metal bat and a mischievous grin, tossing Sally a couple leftover balls from who-knows-when.
+
+[[If you came here to play ball, turn to page #.|exploreball]]
+[[If you didn't come here to play ball, turn to page #.|explore3]]
+===
+title: exploreball
+---
+ughhh i don't want to write more baseball stuff; maybe just link this back up to the other branch
+either that or bad end
+
+[[Turn to page #.|Start]]
+===
+title: explore3
+---
+As much as you'd like to indulge in the moment, there's something here that you don't think Laney and Sally will be able to enjoy with you, and now may be your only chance to find it. Before they have a chance to wrangle you into a pickup game, you wonder aloud if there's time for you to grab lunch before Miss Inglewood gets back with the rest of the class and tell them not to wait up for you. They seem a little surprised by your sudden ambivalence as you stride off the diamond, but a couple strikes later and they've got more exciting swings to worry about than your mood.
+You make your way inside, but instead of following the sounds of the other children's voices, you start tracing the path you planned out in the days leading up to this trip. A left here, a right just past there -- your heartbeat quickens as you get closer and closer to your goal -- five more steps, then two...
+Just as you turn the corner, you spot what you're looking for: the entrance to the home team's locker room! And more importantly: the small section of false plaster on the opposing wall which you know houses the secret passage to the grand sport Cathedral's greatest mystery: the Catacombs of Ba'll.
+
+[[Turn to page #.|explore4]]
+===
+title: explore4
+---
+need at least another node or two of transition here i think
+
+[[Turn to page #.|Start2]]
+===
 title: Start2
 ---
 It doesn't take an expert to realize that these tunnels are ancient. Massive spires of rock and mineral hang from the ceiling and jut out of the ground, their faces lined with the many layers of sediment deposits and smoothed with erosion.
@@ -72,7 +123,7 @@ END
 ===
 title: run
 ---
-Without giving it a second thought, you break into a dash, closing the distance between yourself and the subterranean lake in a matter of seconds, transitioning gracefully into a dive right as you reach the water's edge. No sooner than you are fully submerged, you break into a rapid breast-stroke to pull yourself even deeper into the shimmering blue waters.
+Without giving it a second thought, you break into a dash, closing the distance between yourself and the subterranean lake in a matter of seconds, transitioning gracefully into a dive right as you reach the water's edge. No sooner than you are fully submerged, you start into a rapid breast-stroke to pull yourself even deeper into the shimmering blue waters.
 As you swim, you hear a few dull popping sounds from behind you, and a thin streak of bubbles cuts a line through the water just inches to the right of your head, accompanied by a sharp <smallcaps>*fizz*</smallcaps>. Good golly, are they actually shooting at you?!
 You continue diving deeper, forcing yourself to the bottom of the basin as quickly as you can while bullets pierce the water's surface above you. At this depth you can feel a current pulling you towards one of the underwater channels, and the closer you get the more sure you are that you won't be able to fight it if you keep going. You could give in to the current in order to get away from these amateur gunmen, or you could break free from its pull and look for an alternative means of egress.
 
@@ -88,7 +139,7 @@ END
 ===
 title: current
 ---
-Deciding that you'd rather risk a potential drowning over almost certain bullet wounds, you plunge yourself through the entrance of underwater channel and immediately find yourself tumbling faster and faster through a well-worn tube of stone. You notice that the blue light from the lake has been steadily fading, and that you're quickly nearing pitch black darkness now. Whatever was causing the glow must have been isolated to that central repository.
+Deciding that you'd rather risk a potential drowning over almost certain bullet wounds, you plunge yourself through the entrance of the underwater channel and immediately find yourself tumbling faster and faster through a well-worn tube of stone. You notice that the blue light from the lake has been steadily fading, and that you're quickly nearing pitch black darkness now. Whatever was causing the glow must have been isolated to that central repository.
 The channel twists and turns as it goes on, occasionally slamming you into the sides and bouncing you off corners; you're going to have more than a couple bruises if this keeps up. You try to ignore the pain and focus on holding your breath. Your personal record is just over 2 minutes, but that was in your friend Sally's backyard swimming pool, not careening your way through some sort of crazy aquifer waterslide!
 The current carries you deeper and deeper underground with no signs of letting up, and just when you think you're at your lungs' limit, you feel a shock of cold air hit your left foot. Heart thumping and struggling to get your bearings after having been tossed and turned for what felt like ages, you realize that the channel is no longer filled to the top with water and there are small pockets of air whizzing by above you! It takes a couple agonizing tries to time it properly, but you manage to get another breath of air which carries you to the end of the channel, where it deposits you in a basin much like the larger lake somewhere above and behind you.
 
