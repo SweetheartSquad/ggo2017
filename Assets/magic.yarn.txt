@@ -72,6 +72,32 @@ You white out.
 
 [[Turn to page #.|magicSchool]]
 ===
+title: runToBoat
+---
+Finally you snap out of your trance. Feeling as though a hex has been lifted your heart races. You run forward a few feet before returning to grab your suitcase. You sprint as fast as you can towards the ship. Magic, while convenient, has also caused you to be a tad out of shape and unfortunately the use of magic at your age can only be used in emergency and educational situations. Its not like you teleporation skills were that great anyway and you wouldn't want to get off on the wrong foot with your new classmates, which would be more likely to happen if you showed up to your first day with only one.
+Ahead you see the students slowly make their way up the ramp to the deck.
+"Hurry up kid or we're going to set sail without you!" shouts a man from the bow.
+
+[[If you want to take your chances and keep running, Turn to page #.|runOntoDeck]]
+[[If you believe you're out of options, Turn to page #.|teleportDocks]]
+===
+title: teleportDocks
+---
+As you sprint you see the deck hands begin to untie the knots holding the ferry to the dock. Out of surprising coincidence your shoelaces decide to follow suit and untie themselves. With an exasperated yell you trip and fall face first into the concrete. Could this be the end of your whole magical career, right then and there? "No," you mutter under your breath. You close your eyes and concentrate, imagining your body moving from where you are, with your face bloodied and arms scraped, to the deck of the ferry. You feel heat slowly build up inside of you, and suddenly feel it release from your body.
+
+[[Turn to page #.|halved]]
+===
+title: halved
+---
+You open your eyes laying on your back. Students and crew members surround you, their eyes wide. "I did it," you think to yourself. You try to get up but your exhaustion prevents you. You close your eyes once more. Suddenly a young boy beside you screams out. You open your eyes to look at his face, morphed hidiously by terror. Beside him one of the crew members vomits.
+"Someone get the nurse! Quick!" shouts a voice you cannot see.
+You wonder what could be going on as you feel a liquid start pooling around your ear. Using what remains of your strenght you try to look around.
+You see blood. A lot of blood.
+It turns out you were as good at magic as you thought, but less than you hoped, and that your top half is no long on top of your bottom half.
+The remaining students are too mortified by the sight of you to continue with the school year. The magical community takes a huge hit due to a generation of uneducated individuals.
+
+[[To use your secret bloodline technique while you still have blood, turn to page #.|magicSchool]]
+===
 title: exploreDock
 ---
 The salt in the air fills your nostrils as you begin to walk around the docks. You're reminded of the summer days you spent at the beach with your family. To your right you see a boat of fishermen set off in the early morning. The seaguls hitching a ride squack in excitement. You feel the breeze of the ocean as it gently blows across your face. It fills you with determination.
