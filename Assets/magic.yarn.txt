@@ -1,0 +1,77 @@
+title: magicSchool
+---
+You arrive at the docks, knees weak and palms sweaty. Since you were young you've had to keep this secret from your friends. That from the age of 5 your parents have been teaching you the magical arts.
+It doesn't really matter though. The regulars, as your parents called them, wouldn't believe you anyway. Without a word to them you left that morning to start a new chapter of your life.
+Your father shuts off the car engine and goes to the back to open the trunk to get your suitcase. You wonder why you bothered to drive here instead of using magic. Dad says it wasn't an experience you were ready for but a part of you doesn't believe him. 
+Maybe he was just used to his regular ways after living amoung them for so long. You and your mother step out of the car as your dad comes around with your suitcase.
+"You'll be taking the ferry from here," he says, pointing to the run down ship in the distance.
+"We're so proud that you were able to the top magic school in the county!", exclaims your Mom as tears slowly drip from her eyes.
+
+[[If you want to tell your parents you love them, turn to page #.|goodChild]]
+[[If you are consumed by your anxiety, turn to page #.|weirdChild]]
+===
+title: goodChild
+---
+You lean in towards your parents, wrapping your arms around them. "I love you guys," you say as your voice cracks under the weight of their expectations.
+"We love you too. We know you'll do fantastic at school!" your father says softly as his eyes begin to water.
+Slowly you pull back from your parent's embrace. Their tears have left small salty stains on your coat.
+"I've put a little surprise in your suitcase, make sure you wait until you get to your dorm room to open it!" your mother says gleefully.
+"You have about half and hour before the ship leaves. If you're hungry they should have some food on the ferry. From what I remember it wasn't the best but it'll do," your father warns.
+"Now get going. Make lots of friends!"
+You say your final goodbyes and you turn towards the ship. You see some other students have started to congregate infront of the ramp leading to the deck.
+
+[[If you want to head out towards the students, turn to page #.|toStudents_noBag]]
+[[If you want to explore the rest of the harbour, turn to page #.|exploreDock]]
+[[If you want to do nothing, turn to page #.|weirdChild2]]
+[[If you want to grab your suitcase and then make your way to the ship like a sensible person, turn to page #.|toStudents_withBag]]
+===
+title: weirdChild
+---
+You stand still and don't move a muscle. You can feel your eyes drying as you stare blankly at your parents. Shame and regret fills their face.
+Quickly you realize how awkward you've made this situation, but you're too stunned to take corrective action.
+"We know you're nervous, but please try to not embarras yourself. And please try to make some friends. I know you have a difficult time but just try," your Mom says with a hint of disdain.
+You've known for a while your social skills have been lacking. Most of your friendships up to this point have been due to convenience and proximity, and your weird penchant to hang around the neighbourhood kids without saying a word.
+Maybe this will be the year, your year. The year you finally take the first steps into be a regular non-regular magical person.
+
+[[If you want to break out of the prison that is your own thoughts, turn to page #.|goodChild]]
+[[If you want to head out towards the students, turn to page #.|toStudents_noBag]]
+[[If you want to explore the rest of the harbour, turn to page #.|exploreDock]]
+[[If you want to do nothing, turn to page #.|weirdChild2]]
+[[If you want to grab your suitcase and then make your way to the ship like a sensible person, turn to page #.|toStudents_withBag]]
+===
+title: weirdChild2
+---
+You stand in place. Staring blankly ahead you hear your parents mumbling to each other behind you under their breath.
+"You okay sweety?" your Mom asks nervously.
+"Everything's going to be fine," your Dad attempts to say in an assuring fashion, but you guess he may have his own doubts.
+Your mother slowly reaches out her hand and nudges you in the shoulder.
+
+[[If you want to head out towards the students, turn to page #.|toStudents_noBag]]
+[[If you want to explore the rest of the harbour, turn to page #.|exploreDock]]
+[[If you want to do nothing, turn to page #.|weirdChild3]]
+[[If you want to grab your suitcase and then make your way to the ship like a sensible person, turn to page #.|toStudents_withBag]]
+===
+title: weirdChild3
+---
+A horn bellows in the distance. You can feel the vibrations enter your ears and resonate with your body.
+"It's been half an hour already! You have to hurry to the boat now!" your Dad shouts behind you.
+You try to lift your foot but it is firmly planted in place. Thoughts fill your mind. How you'll be letting your family down if you don't make it onto the ferry.
+How you'll be throwing away the years of magic training you have gone through. About all of the work and time your parents have invested into you. All for nothing.
+Can you take that firs step
+
+[[If you want to sprint to the boat, turn to page #.|runToBoat_noBag]]
+[[If you want to do nothing, turn to page #.|weirdChild4]]
+[[If you want to grab your suitcase and then sprint to the boat, turn to page #.|runToBoat_withBag]]
+===
+title: weirdChild4
+---
+The ferry's horn sounds off again. You just won't budge. You can't. In the distance you can see the ship set sail, slowly escaping into the sunset as your Mom sobs behind you.
+You can't believe all the work you and your family hand done was for nothing.
+Your collapse on the ground.
+You shit yourself.
+You lose.
+
+[[If you want to sprint to the boat, turn to page #.|runToBoat_noBag]]
+[[If you want to do nothing, turn to page #.|weirdChild4]]
+[[If you want to grab your suitcase and then sprint to the boat, turn to page #.|runToBoat_withBag]]
+===
