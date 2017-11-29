@@ -1,0 +1,51 @@
+title: ball1
+tags: 
+colorID: 0
+position: -453,209
+---
+It’s the day of the 2nd grade field trip, and you can’t wait. You and your friends Laney and Sally have been waiting for this all year. This year, you’re going to Fenway Park to get a tour!
+
+You, Laney, and Sally are all on the local girl’s little league team. Laney is the shortstop, Sally is the pitcher, and you’re the star hitter. You’re also the left outfielder, but you’re not very good at catching. Or throwing. But you sure can hit the ball. The three of you are looking forward to seeing all the amazing things the park has to offer. It's been through a lot since it opened in 1912, but it looks as good as ever. You look forward to seeing the Green Monster, the giant green wall of concrete and plastic along the left field. Your dad told you that there are dents in the wall from baseballs, and you want to see for yourself.
+
+Miss Inglewood talks to the man at the front gate. He says something to her, and she leads your class through the turnstiles and into a set of tunnels. Your group keeps walking and eventually makes it out onto the field itself. The park looks so much bigger from the inside. The grass smells freshly cut and the sky above is bright and blue. The Green Monster looms in your peripheral vision. Laney nudges you and points to the famous Lone Red Seat in the stands. You can feel it -- this is going to be an amazing day.
+
+[[Turn to page #.|ball2]]
+===
+title: ball2
+tags: 
+colorID: 0
+position: -150,156
+---
+"Isn't it wonderful?" says Miss Inglewood. You nod your head. It's all you could have hoped for in a ball park.
+
+Miss Inglewood leaves to go get the tour guide. The other kids mull about the field, talking or playing games. You hang around Laney and Sally.
+
+“We should go exploring while Miss Inglewood’s gone,” says Laney. She’s the adventurous one of your group. Sally agrees. You think it would be pretty amazing to explore the park unsupervised, but you also think that you should stay with the group.
+
+“Come on,” says Sally. “Don’t be a wuss.”
+
+[[If you go exploring with your friends, turn to page #.|explore1]]
+[[If you convince your friends to stay with the group, turn to page #.|ball3]]
+===
+title: ball3
+tags: 
+colorID: 0
+position: -35,420
+---
+Laney and Sally groan when you tell them that you should stay with the group, but they agree to stay. You sit down in the grass and make small talk for a little while.
+
+After a few minutes, Miss Inglewood returns with a woman in a clean uniform. She must be the tour guide. The tour guide waves and, once she is within earshot, addresses the group.
+
+"Good afternoon, class! My name is Amy, and I will be your tour guide today."
+
+"Hi, Amy!" chants the class.
+
+"Are you looking forward to the tour?" asks Amy. The class agrees enthusiastically. Amy smiles and asks the class to follow her. Laney rolls her eyes at you. You grin and shrug. You follow the rest of the class and get ready to start the tour.
+===
+title: explore1
+tags: 
+colorID: 0
+position: 159,191
+---
+Empty Text
+===
