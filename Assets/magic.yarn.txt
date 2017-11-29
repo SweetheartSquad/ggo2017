@@ -96,7 +96,7 @@ You see blood. A lot of blood.
 It turns out you were as good at magic as you thought, but less than you hoped, and that your top half is no long on top of your bottom half.
 The remaining students are too mortified by the sight of you to continue with the school year. The magical community takes a huge hit due to a generation of uneducated individuals.
 
-[[To use your secret bloodline technique while you still have blood, turn to page #.|magicSchool]]
+[[To use your secret bloodline technique while you still have blood, turn to page #.|bloodlineReboot]]
 ===
 title: exploreDock
 ---
