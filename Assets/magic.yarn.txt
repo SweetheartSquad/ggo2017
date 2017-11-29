@@ -65,11 +65,7 @@ Can you take that firs step
 ===
 title: weirdChild4
 ---
-The ferry's horn sounds off again. You just won't budge. You can't. In the distance you can see the ship set sail, slowly escaping into the sunset as your Mom sobs behind you.
-You can't believe all the work you and your family hand done was for nothing.
-Your collapse on the ground.
-You shit yourself.
-You lose.
+The ferry's horn sounds off again. You just won't budge. You can't. In the distance you can see the ship set sail, slowly escaping into the sunset. Tears fall to the ground behind you, and shatter like your dreams of a better life.
 
 [[If you want to use your secret bloodline technique, turn to page #.|bloodlineReboot]]
 ===
