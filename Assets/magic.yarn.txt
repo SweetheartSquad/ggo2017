@@ -111,6 +111,11 @@ title: toStudents_onDock
 As you get closer to the boat you see the rest of the students begin to line up and prepare boarding the vessel. At the front is a tall woman with a stern face, staring in your direction. You decide to pick up the pace and fall in to the back of the line just as it begins moving. Looking around at all the faces of your fellow students, you realize how many other irregulars there were. Until today your parents were the only magic users you knew but now they were everywhere. You hope someone won't accidentally sneeze and sink the ship on your journey.
 "Hurry now! Quit your daydreaming!" the woman snaps. "We must leave on time. The ferry hasn't had a late departure in over 500 years and we won't be breaking that tradtion today over the likes of you!"
 Nervous, you drag your suitcase up the ramp, wondering how a 500 year old streak exist in a country that as far as you know was a few centuries younger than that.
+You make it to the deck. The other students have already seated, and seemingly split into cliques.
+"That was quick," you mutter to yourself.
+Before you, you see a shy group of individuals quietly talking amongst themselves and trying to not be a bother to anyone.
+To your right you spot a rowdier group of kids hangy by the railing, laughing and screaming in a chaotic fashion.
 
-[[To join the rest of the students, turn to page #.|toStudents_onDock]]
+[[If you want to go sit with the fuckin nerds, turn to page #.|sitWithNerds]]
+[[If you want to go talk to the rowdy assholes, turn to page #.|talkWithAssholes]]
 ===
