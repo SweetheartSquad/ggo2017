@@ -82,16 +82,75 @@ Just as you turn the corner, you spot what you're looking for: the entrance to t
 ===
 title: explore4
 ---
-need at least another node or two of transition here i think
+You run your hands over the wall, examining each and every tiny bump and imperfection, looking for the one that activates whatever hidden mechanism keeps the entrance sealed. It takes a few minutes of careful prodding, but eventually your fingers depress and you hear a soft *<smallcaps>click</smallcaps>* as the wall gives way.
+The false plaster starts swinging slowly inwards as you apply more pressure, revolving on a central axis. You crouch your head slightly to make it through the small opening, and make your way inside. The door continues swinging as you do, turning a full 180° before clicking shut, leaving you in the darkness within. You have a nagging suspicion that you won't be able to leave the same way you came in.
+Not one to be caught unprepared, you fumble blindly through your pockets for a moment and produce a small flashlight. Illuminating the walls around you, it's clear that you're on the right track, as the construction here is clearly much older. The contemporary plaster of the entrance stands in stark contrast to the crumbling stone and wooden supports that line the rest of the chamber.
+Turning your gaze forward, you spot a small staircase a few steps in front of you leading deeper into the darkness. 
+Your fore-knowledge of the layout ends here, but looks like you know where you're headed for the time being.
+[[Turn to page #.|explore5]]
+===
+title: explore5
+---
+The stairs travel straight down for a few meters through exposed rock. At first it looks like incredibly shoddy workmanship -- hastily hewn stone meant to serve no purpose other than locomotion, but as you walk further down, the rough markings and cuts start to give way to flatter, more refined surfaces. The steps begin to widen, and then transition into a lazy spiral as more and more evidence of artistry appears on the walls that pass you by: a noticeable trim along edges, clear markers every dozen steps, purely aesthetic patterning that must have taken someone ages to carve...
+Soon enough, you find yourself slowing to admire details here and there. To think; all this and more could have gone unnoticed by so many for so long! You fight back a slight twinge of guilt as you think of your classmates above, eating hotdogs and playing ball as you explore hidden depths on your own. You remind yourself that they're having a good time too, and of course that yours is an experience that only a select few could appreciate.
+Distracted momentarily by your thoughts, you stumble awkwardly as your foot plants down sooner than expected: you've reached the bottom of the stairwell! Recovering your balance, you survey the area. To your left, the floor levels out into a long, narrow tunnel that stretches as far as the beam from your flashlight will reach. To your right lies a small alcove engraved in ornate detail. It may be a good opportunity to try to learn more about these mysterious passageways. On the other hand, you are on a bit of a tight schedule -- maybe you should just keep moving.
 
-[[Turn to page #.|Start2]]
+[[If you examine the alcove to the right, turn to page #.|alcove]]
+[[If you carry on through the tunnel to your left, turn to page #.|Start2]]
+===
+title: alcove
+---
+You take a closer look at the alcove to your right. It houses a limestone bust portraying a man from the chest up, rendered in exquisite detail. You don't recognize the face, but admire the craft that went into capturing such a striking jawline -- such piercing eyes. You can't help but wonder what it must have looked like before the passage of time stripped it of pigment, but even the raw stone is a thing of beauty.
+The figure's arms are held delicately by its sides, elbows bent and palms facing upwards. In his right hand, a similarly sculpted bat is balanced vertically, and in his left, the ball. A small plaque is mounted to the platform on which the statue rests. Shining your flashlight on it, you read the words engraved upon it:
+
+<align=center><smallcaps><i><b><br>Hey batta-hatta bee
+Hey hatta-batta hall
+Which o'these came first
+Bat or the Ba'll?</b></i></smallcaps></align>
+
+Ah, so it's a riddle then? It's pretty clear you're expected to choose from the offerings presented in the figure's hands, though you have no clue what consequences your choice will have.
+
+
+[[If you grab the bat, turn to page #.|riddlebat]]
+[[If you place your hand on the ball, turn to page #.|riddleball]]
+[[If you do both at once, turn to page #.|riddleboth]]
+[[If you forgo making a choice and head down the tunnel to the left of the stairs instead, turn to page #.|Start2]]
+===
+title: riddlebat
+---
+You're a bit surprised anyone thought this would fool would-be intruders; everyone knows the bat came first. You grasp the stone bat in your hand. A few seconds pass, but nothing happens.
+You're sure of your answer, but maybe you've misunderstood the mechanism? Experimenting, you give the bat a light tug. A few more seconds pass, and then you give it a slightly less light tug. On this second attempt, you feel something give way, and the arm holding it starts to swivel on some hidden joint.
+There's an ominous creaking and the grinding of stone sliding against stone as you continue to pull the bat down like some sort of lever. As it falls into place, you feel a dull rumbling begin in the floor below you. The rumble grows as it rises up through the walls until the entire chamber is shaking. Dust and rubble start to break loose from the ceiling.
+Relatively safe in the confines of the alcove, you watch as cracks shoot through the stairs you were descending just minutes ago, and suddenly there are huge slabs of stone crashing all around them.
+By the time the rumbling subsides, a giant pile of rubble blocks what's left of your only known exit to the surface. To be honest, you're not sure if you've triggered a trap, or if this thing just hasn't survived the test of time and fell apart before it could complete its intended purpose. In either case, you're going to have to keep an eye out for a new way out of here. Clouds of dust kicked up by the commotion begin to settle as you consider your options.
+
+[[If you give the riddle another shot and grab the ball, turn to page #.|riddleball]]
+[[If you take the only remaining exit and head down the tunnel to the left of what used to be the stairwell, turn to page #.|Start2]]
+===
+title: riddleball
+---
+Given the circumstances, you're fairly certain there's no way for you to actually figure out what this riddle was intending to communicate during the time of its construction. Language often changes and evolves over the course of a few years, let alone generations. You place your palm on the top of the stone ball and hope for the best.
+The arm of the statue lowers and begins to rotate under the weight of your hand. As it does, you feel a sudden rushing sensation: the floor below you just collapsed into a trapdoor! Reflexes kicking in as you start to fall, you manage to hook one flailing hand onto the edge of the newly opened pit.
+You glance below you and see your flashlight -- you must have dropped it in the excitement -- tumbling into the darkness below. Watching in horror as your only source of light dims and eventually disappears, you realize just how far you have to fall. Eager to put yourself in a less precarious position, you swing your free arm blindly for a handhold, only to end up knocking a few more rocks loose. Your fingers strain as you hold on for dear life, and the gravity of the situation sets in: you're alone in the dark, no one knows where you are, and the only thing keeping you from a five-storey drop is a bit of rapidly dwindling grip strength.
+END
+
+[[To restart and try again, turn to page #.|Start]]
+===
+title: riddleboth
+---
+Obviously, the riddle is a trick question: without the ball, what use would you have for the bat, and vice versa? The two go hand in hand, and following that logic, you simultaneously reach out with both hands to grasp the stone sports gear.
+It occurs to you a few moments later that you may have been a bit too hasty in coming to that clever conclusion. You take comfort in the fact that this self-doubt will soon be cut short as you plummet through the crumbling floor and into the pit below.
+END
+
+[[To restart and try again, turn to page #.|Start]]
 ===
 title: Start2
 ---
+The passageway widens as you make your way forwards, and the walls give way to more and more natural formations, with only the path itself maintaining the smooth, carved stone from before.
 It doesn't take an expert to realize that these tunnels are ancient. Massive spires of rock and mineral hang from the ceiling and jut out of the ground, their faces lined with the many layers of sediment deposits and smoothed with erosion.
-As you continue walking, they eventually open up into a vast underground lake, its bed pock-marked with dozens of channels leading who-knows-where. The surface of the lake is so blue as to appear glowing in comparison to the dim lighting you've had to navigate thus far. You've heard of species of bioluminescent algae said to produce a similar effect, though they usually require a steady cycle of daylight. Perhaps something else is causing the brightness?
+As you continue walking, they eventually open up further into a vast underground lake, its bed pock-marked with dozens of channels leading who-knows-where. The surface of the lake is so blue as to appear glowing in comparison to the dim lighting you've had to navigate thus far. You've heard of species of bioluminescent algae said to produce a similar effect, though they usually require a steady cycle of daylight. Perhaps something else is causing the brightness?
 Each footstep you take as you make your way towards the water's edge to investigate triggers a trailing cacophony of echoes, sounds bouncing and reverberating throughout the vast caverns. You stop to enjoy the acoustics for a moment, and suddenly realize that the footsteps didn't stop until a moment after you had planted your feet. You're being followed!
-Listening carefully, you try to pin-point the source of the other steps. The natural reverb makes it difficult to be certain, but you estimate there to be two adult men in synthetic leather moccasins and pure cotton socks trailing you, at least one of which is almost within striking distance. You could try to take advantage of the fact that they've lost the element of surprise to launch an immediate counter-offensive, or you could go for a dive and try to lose them in the depths below.
+Listening carefully, you try to pin-point the source of the other steps. The natural reverb makes it difficult to be certain, but you estimate there to be two adult men in leather moccasins trailing you, at least one of which is almost within striking distance. You could try to take advantage of the fact that they've lost the element of surprise to launch an immediate counter-offensive, or you could go for a dive and try to lose them in the depths below.
 
 [[If you stand your ground and fight, turn to page #.|fight]]
 [[If you think you're outmatched and flee deeper into the caverns, turn to page #.|run]]
