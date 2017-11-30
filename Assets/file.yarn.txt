@@ -243,7 +243,11 @@ tags:
 colorID: 0
 position: 1102,-81
 ---
-either you get captured, shot or the blue stuff is acidic? depends how bad we want the bad ends to be i guess; i'll figure it out later
+With a powerful kick, you push yourself out of the current's pull. Rather than risk drawing fire by going back up to the surface for air, you continue swimming along the bottom of the pool and make an effort to get to the other side on your original breath.
+Steadily making your way across, you expect to hear the splash of a pursuer jumping in after you, but it never comes. You pause to take a look behind you: it's difficult to make out what's happening above the surface from this depth, but it appears that the two men are simply standing at the water's edge where you jumped in, not doing anything. They've even holstered their weapons?
+You're not sure what their strategy is: given that there's two of them, one could have easily dived into the water while the other monitored you from afar. There doesn't seem to be a clear path on dry land to the other side of the lake; at this rate you'll be able to emerge on the other side home free and they don't even seem to be trying to stop you.
+Your thoughts are interrupted by an increasingly painful stinging in your eyes: it's not like you exactly had time to put on goggles before your impromptu swimming session. This, combined with your lungs burning for air and the apparent complacency of your attackers, is enough to make you decide to surface. Breaching with all the grace of a humpback, you immediately take a few deep breaths and try to recover. Eyes still stinging, you blink a few times and bring a forearm up to wipe the water away from your face. When you lower it, you're surprised to find that not only is your vision still blurred, but there are now two bright streaks of red on your arm. A couple blinks later, and your entire vision has taken on a dark, pinkish tint.
+It takes a bit longer for the pain to subside, and by the time it does, you're completely blind.
 END
 
 [[To restart and try again, turn to page #.|Start]]
