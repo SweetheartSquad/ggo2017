@@ -116,6 +116,6 @@ You make it to the deck. The other students have already seated, and seemingly s
 Before you, you see a shy group of individuals quietly talking amongst themselves and trying to not be a bother to anyone.
 To your right you spot a rowdier group of kids hangy by the railing, laughing and screaming in a chaotic fashion.
 
-[[If you want to go sit with the fuckin nerds, turn to page #.|sitWithNerds]]
-[[If you want to go talk to the rowdy assholes, turn to page #.|talkWithAssholes]]
+[[If you want to go sit with them dang nerds, turn to page #.|sitWithNerds]]
+[[If you want to go talk to the rowdy bums, turn to page #.|talkWithAssholes]]
 ===
