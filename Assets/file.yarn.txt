@@ -211,9 +211,3 @@ Thankful for the ample supply of oxygen, you take a few moments to simply tread 
 
 [[To restart and try again, turn to page #.|Start]]
 ===
-title: dead
----
-whoops you died
-END
-
-[[To restart and try again, turn to page #.|Start]]
