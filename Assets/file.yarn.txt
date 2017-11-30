@@ -1,4 +1,7 @@
 title: Start
+tags: 
+colorID: 0
+position: 122,-1396
 ---
  
  
@@ -38,7 +41,7 @@ title: Start
 title: explore1
 tags: 
 colorID: 0
-position: 159,191
+position: -528,-678
 ---
 You're no wuss, and you make sure Sally knows as much as the three of you take advantage of Miss Inglewood's absence to break off from the group waiting in the in-field and start climbing your way through the bleachers. No offense to Miss I.'s ability to plan a school trip, but you're fairly certain you don't need a boring old tour guide to know how to have fun at a baseball diamond!
 The three of you take turns sitting in the famous red seat marking the longest home run ever hit at the park and watch as your teacher and classmates follow a woman in a white uniform around the field in the distance. They stop a few times along the way, presumably to listen to the tour guide's spiel.
@@ -49,6 +52,9 @@ Your classmates aren't paying any attention to the bleachers at the moment, but 
 [[If you say "No, we're too far away", turn to page #.|caught_red_seated_ha_get_it]]
 ===
 title: caught_red_seated_ha_get_it
+tags: 
+colorID: 0
+position: -536,-417
 ---
 that was dumb you got caught
 END
@@ -56,6 +62,9 @@ END
 [[To restart and try again, turn to page #.|Start]]
 ===
 title: explore2
+tags: 
+colorID: 0
+position: -252,-686
 ---
 While the guide's drawing everyone's attention towards the giant green wall, you take the lead and start sneaking your way around to the other side of the bleachers. You have to hush your compatriots multiple times as they giggle their way through your clever maneuver. Peeking out from over the seats, you keep an eye on the rest of your class as they make the rounds. By the time the tour guide points out the crimson chair, your triumvirate is nowhere to be seen.
 It seems the bold bleacher was the last stop on the tour, and you watch as your classmates, like a little line of ants, file their way back into the park's interior. You're all scheduled to play a game together on the field after lunch, which means that you've got a whole hour out here to yourself!
@@ -66,6 +75,9 @@ As you laugh and dust yourself off, Laney wanders over to the dugout and hops in
 [[If you didn't come here to play ball, turn to page #.|explore3]]
 ===
 title: exploreball
+tags: 
+colorID: 0
+position: -336,-174
 ---
 ughhh i don't want to write more baseball stuff; maybe just link this back up to the other branch
 either that or bad end
@@ -73,6 +85,9 @@ either that or bad end
 [[Turn to page #.|Start]]
 ===
 title: explore3
+tags: 
+colorID: 0
+position: 42,-684
 ---
 As much as you'd like to indulge in the moment, there's something here that you don't think Laney and Sally will be able to enjoy with you, and now may be your only chance to find it. Before they have a chance to wrangle you into a pickup game, you wonder aloud if there's time for you to grab lunch before Miss Inglewood gets back with the rest of the class and tell them not to wait up for you. They seem a little surprised by your sudden ambivalence as you stride off the diamond, but a couple strikes later and they've got more exciting swings to worry about than your mood.
 You make your way inside, but instead of following the sounds of the other children's voices, you start tracing the path you planned out in the days leading up to this trip. A left here, a right just past there -- your heartbeat quickens as you get closer and closer to your goal -- five more steps, then two...
@@ -81,6 +96,9 @@ Just as you turn the corner, you spot what you're looking for: the entrance to t
 [[Turn to page #.|explore4]]
 ===
 title: explore4
+tags: 
+colorID: 0
+position: 308,-684
 ---
 You run your hands over the wall, examining each and every tiny bump and imperfection, looking for the one that activates whatever hidden mechanism keeps the entrance sealed. It takes a few minutes of careful prodding, but eventually your fingers depress and you hear a soft *<smallcaps>click</smallcaps>* as the wall gives way.
 The false plaster starts swinging slowly inwards as you apply more pressure, revolving on a central axis. You crouch your head slightly to make it through the small opening, and make your way inside. The door continues swinging as you do, turning a full 180° before clicking shut, leaving you in the darkness within. You have a nagging suspicion that you won't be able to leave the same way you came in.
@@ -90,6 +108,9 @@ Your fore-knowledge of the layout ends here, but looks like you know where you'r
 [[Turn to page #.|explore5]]
 ===
 title: explore5
+tags: 
+colorID: 0
+position: 577,-683
 ---
 The stairs travel straight down for a few meters through exposed rock. At first it looks like incredibly shoddy workmanship -- hastily hewn stone meant to serve no purpose other than locomotion, but as you walk further down, the rough markings and cuts start to give way to flatter, more refined surfaces. The steps begin to widen, and then transition into a lazy spiral as more and more evidence of artistry appears on the walls that pass you by: a noticeable trim along edges, clear markers every dozen steps, purely aesthetic patterning that must have taken someone ages to carve...
 Soon enough, you find yourself slowing to admire details here and there. To think; all this and more could have gone unnoticed by so many for so long! You fight back a slight twinge of guilt as you think of your classmates above, eating hotdogs and playing ball as you explore hidden depths on your own. You remind yourself that they're having a good time too, and of course that yours is an experience that only a select few could appreciate.
@@ -99,6 +120,9 @@ Distracted momentarily by your thoughts, you stumble awkwardly as your foot plan
 [[If you carry on through the tunnel to your left, turn to page #.|Start2]]
 ===
 title: alcove
+tags: 
+colorID: 0
+position: 996,-689
 ---
 You take a closer look at the alcove to your right. It houses a limestone bust portraying a man from the chest up, rendered in exquisite detail. You don't recognize the face, but admire the craft that went into capturing such a striking jawline -- such piercing eyes. You can't help but wonder what it must have looked like before the passage of time stripped it of pigment, but even the raw stone is a thing of beauty.
 The figure's arms are held delicately by its sides, elbows bent and palms facing upwards. In his right hand, a similarly sculpted bat is balanced vertically, and in his left, the ball. A small plaque is mounted to the platform on which the statue rests. Shining your flashlight on it, you read the words engraved upon it:
@@ -117,6 +141,9 @@ Ah, so it's a riddle then? It's pretty clear you're expected to choose from the 
 [[If you forgo making a choice and head down the tunnel to the left of the stairs instead, turn to page #.|Start2]]
 ===
 title: riddlebat
+tags: 
+colorID: 0
+position: 1436,-947
 ---
 You're a bit surprised anyone thought this would fool would-be intruders; everyone knows the bat came first. You grasp the stone bat in your hand. A few seconds pass, but nothing happens.
 You're sure of your answer, but maybe you've misunderstood the mechanism? Experimenting, you give the bat a light tug. A few more seconds pass, and then you give it a slightly less light tug. On this second attempt, you feel something give way, and the arm holding it starts to swivel on some hidden joint.
@@ -128,6 +155,9 @@ By the time the rumbling subsides, a giant pile of rubble blocks what's left of 
 [[If you take the only remaining exit and head down the tunnel to the left of what used to be the stairwell, turn to page #.|Start2]]
 ===
 title: riddleball
+tags: 
+colorID: 0
+position: 1442,-687
 ---
 Given the circumstances, you're fairly certain there's no way for you to actually figure out what this riddle was intending to communicate during the time of its construction. Language often changes and evolves over the course of a few years, let alone generations. You place your palm on the top of the stone ball and hope for the best.
 The arm of the statue lowers and begins to rotate under the weight of your hand. As it does, you feel a sudden rushing sensation: the floor below you just collapsed into a trapdoor! Reflexes kicking in as you start to fall, you manage to hook one flailing hand onto the edge of the newly opened pit.
@@ -137,6 +167,9 @@ END
 [[To restart and try again, turn to page #.|Start]]
 ===
 title: riddleboth
+tags: 
+colorID: 0
+position: 1442,-442
 ---
 Obviously, the riddle is a trick question: without the ball, what use would you have for the bat, and vice versa? The two go hand in hand, and following that logic, you simultaneously reach out with both hands to grasp the stone sports gear.
 It occurs to you a few moments later that you may have been a bit too hasty in coming to that clever conclusion. You take comfort in the fact that this self-doubt will soon be cut short as you plummet through the crumbling floor and into the pit below.
@@ -145,6 +178,9 @@ END
 [[To restart and try again, turn to page #.|Start]]
 ===
 title: Start2
+tags: 
+colorID: 0
+position: 582,-434
 ---
 The passageway widens as you make your way forwards, and the walls give way to more and more natural formations, with only the path itself maintaining the smooth, carved stone from before.
 It doesn't take an expert to realize that these tunnels are ancient. Massive spires of rock and mineral hang from the ceiling and jut out of the ground, their faces lined with the many layers of sediment deposits and smoothed with erosion.
@@ -156,6 +192,9 @@ Listening carefully, you try to pin-point the source of the other steps. The nat
 [[If you think you're outmatched and flee deeper into the caverns, turn to page #.|run]]
 ===
 title: fight
+tags: 
+colorID: 0
+position: 243,-151
 ---
 If these punks think they can get the jump on you, they've got another thing coming! Having taken stock of the situation, you draw your trusty Smith & Wesson Model 40 snub-nosed revolver from the folds of your jacket in a split-second, but your opponents are even faster: before you even have a chance to line up an attack, a lightning-quick karate chop knocks the weapon from your hand and sends it clattering along the stone floor to the left.
 Not one to give up easily, you grab your attacker's arm and use his weight to judo flip him over your shoulder. The towering man is sent tumbling through the air in a magnificent arc, and there's a thundering <smallcaps>*smack*</smallcaps> and the wheeze of forced exhalation as your assailant lands flat on his back. Not bad, but the fight's not over yet.
@@ -165,6 +204,9 @@ Your vision blackens as a bag is pulled over your head.
 [[Turn to page #.|captured]]
 ===
 title: captured
+tags: 
+colorID: 0
+position: 243,105
 ---
 "You won't get away with this!" you exclaim, but the men pay your complaints no mind as one grabs your wrists and ties them behind your back. A second later you feel a shove that sends you stumbling a few feet forward, and then another just as you regain your balance. Quickly deducing the intent behind this roughness, you start walking forward blindly.
 Every now and then as you make your way in darkness, another sudden push redirects you. It's far from gentle, but presumably it's better than walking face-first into a stalagmite or some other unseen hazard.
@@ -175,6 +217,9 @@ Noticing a delay in your steps as you recover and take it all in, your captors g
 [[Turn to page #.|chamber]]
 ===
 title: chamber
+tags: 
+colorID: 0
+position: 247,370
 ---
 whoops you died
 END
@@ -182,6 +227,9 @@ END
 [[To restart and try again, turn to page #.|Start]]
 ===
 title: run
+tags: 
+colorID: 0
+position: 840,-79
 ---
 Without giving it a second thought, you break into a dash, closing the distance between yourself and the subterranean lake in a matter of seconds, transitioning gracefully into a dive right as you reach the water's edge. No sooner than you are fully submerged, you start into a rapid breast-stroke to pull yourself even deeper into the shimmering blue waters.
 As you swim, you hear a few dull popping sounds from behind you, and a thin streak of bubbles cuts a line through the water just inches to the right of your head, accompanied by a sharp <smallcaps>*fizz*</smallcaps>. Good golly, are they actually shooting at you?!
@@ -191,6 +239,9 @@ You continue diving deeper, forcing yourself to the bottom of the basin as quick
 [[If you try to escape another way, turn to page #.|nocurrent]]
 ===
 title: nocurrent
+tags: 
+colorID: 0
+position: 1102,-81
 ---
 either you get captured, shot or the blue stuff is acidic? depends how bad we want the bad ends to be i guess; i'll figure it out later
 END
@@ -198,6 +249,9 @@ END
 [[To restart and try again, turn to page #.|Start]]
 ===
 title: current
+tags: 
+colorID: 0
+position: 835,179
 ---
 Deciding that you'd rather risk a potential drowning over almost certain bullet wounds, you plunge yourself through the entrance of the underwater channel and immediately find yourself tumbling faster and faster through a well-worn tube of stone. You notice that the blue light from the lake has been steadily fading, and that you're quickly nearing pitch black darkness now. Whatever was causing the glow must have been isolated to that central repository.
 The channel twists and turns as it goes on, occasionally slamming you into the sides and bouncing you off corners; you're going to have more than a couple bruises if this keeps up. You try to ignore the pain and focus on holding your breath. Your personal record is just over 2 minutes, but that was in your friend Sally's backyard swimming pool, not careening your way through some sort of crazy aquifer waterslide!
@@ -206,6 +260,9 @@ The current carries you deeper and deeper underground with no signs of letting u
 [[Turn to page #.|current2]]
 ===
 title: current2
+tags: 
+colorID: 0
+position: 841,430
 ---
 Thankful for the ample supply of oxygen, you take a few moments to simply tread water and breathe deeply. The dank, stale air of the caverns may as well be a cool spring breeze after what you've been through. You briefly recall the reasons for putting yourself through that watery heck-hole and wonder if your pursuers were persistent enough to have followed suit. You're fairly certain it was narrow enough in some parts that they would have gotten stuck (sucks to be them), so whether they did or not, you should be able to relax for the time being.
 
