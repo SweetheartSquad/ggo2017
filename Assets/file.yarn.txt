@@ -330,11 +330,42 @@ colorID: 0
 position: 941,430
 ---
 Snapping your thoughts back into action, you wade towards the edge the pool. It's nice to be on solid ground again, but you're absolutely soaked. Drenched through and through. You spend a bit of time wringing the water from your clothes, but you'd kill for a towel right about now. Still dripping wet, you start squeezing through the small vertical slit. It's a tight fit -- hopefully it widens up somewhere down the line or you're just going to end up wet, sore, and stuck.
+As you wriggle further into the crevice, you start to hear a faint moaning sound. The moaning gets louder - and more sorrowful - the further you wriggle. When you've wriggled all the way out of the crevice, you find yourself in a large cavern filled with glittering veins of ore, wondrous jewels, and a weird little ghost in a baseball costume. Well, you did want to know where that moaning was coming from.
+The ghost seems to sense your presence and looks up. "Ohhhh, come to mock poor little me? Come to bask in my endless sorrow? My eternal suffering?? Was death not enough? Must I be tortured by an insolent little girl!"
+"Watch it, buster!" you say. You HATE being called insolent. You've never been insolent in your life! Heck, your friends have always made fun of you for being TOO solent. Who's this ghost fellow anyway?
+"Why, I'm the ghost of baseball," he replies.
 
-TODO: THIS
-
-[[Turn to page #.|current2]]
+[[Turn to page #.|ghostie1]]
 ===
+title: ghostie1
+---
+"The ghost of baseball," you echo incredulously.
+"Yes," he replies. "The beautiful sport itself! Why, I was the best! The greatest! You couldn't walk two feet without tripping over a glove or a bat. I used to be somebody. I used to rule the world." He moans in agony, and throws his ghostly body across the room. "Now the kids don't care, they don't have time for me! They sit around on their doohickeys and their hula-hoops. They won't pick up the ball and play. They took their little hands and they dug my grave." He flings himself across the room again, groaning loudly. He's a certified kook, you think to yourself. Baseball isn't dead! You play little league twice a week. Your family has a season pass for the Red Sox. You're literally wearing a Red Sox shirt right now! The ghost sure seems upset, though. Maybe you should try to cheer him up, or snap him back to reality.
+
+
+[[If you tell Baseball that you still believe in him, turn to page #.|ghostie2]]
+[[If you tell Baseball that he's being ridiculous, turn to page #.|ghostiebad]]
+===
+title: ghostie2
+---
+"Baseball isn't dead, sir," you tell him. "Why, I play little league two times a week with my best friends, Laney and Sally! Our team is really good, we might even make it to finals this year. And my family goes to see every Red Sox game. Everyone loves you, Mr. Baseball, sir!" The ghost goes quiet and seems to think about this.
+"Could it be?" he says quietly. "Could it be that I'm... still alive?" His body begins to glow with a strange light. Traslucent baseball gloves appear and begin to rotate around the ghost as he slowly lifts off the ground.
+"You should go up to the stadium," you continue. "All my classmates are playing a game of baseball right now." The ghost chuckles at this , and glows even brighter.
+"Maybe you're right, kid," he says. "Maybe I haven't passed my prime after all!" Ghostly baseball bats appear around him now, twirling counter to the baseball gloves. The apparitions seem to make the ghost shine brighter and brighter. Soon, he's ascended to the ceiling. He looks down at you. "Thank you for believing in me," he says, and vanishes.
+A door sparkles into existence in the cave wall in front of you. You open it, and find a staircase leading back up to the stadium. You find your class, out on the field, still playing that good ol' game of baseball. Smiling, you pick up a glove and join them.
+END
+
+[[To restart and try again, turn to page #.|Start]]
+===
+title: ghostiebad
+---
+"Baseball isn't dead at all, sir," you say. "And it's a bit ridiculous to claim that, frankly!" The ghost bristles.
+"I am so dead! Look at me!" He gestures to his ghostly body. "Whatever! What do you know! No one can ever understand!" He screams and flies through a wall of the cavern. Whatever. You're glad he's gone. He was kind of annoying.
+You search the cavern for a little bit, admiring the glittering gems and jewels scattered about. There doesn't seem to be another exit to the cavern, so you turn back to the crevice you came from. Suddenly, you hear a moan, and the walls shudder. You hear a huge crash, and the light from the crevice goes dark. You investigate, and find out that there's now a giant boulder blocking the crevice entrance. It must have fallen from somewhere. You try to move it but it won't budge. There's no way out - you're trapped!
+You swear you can hear that stupid ghost laughing at you.
+END
+
+[[To restart and try again, turn to page #.|Start]]
 ===
 title: ball1
 tags: 
