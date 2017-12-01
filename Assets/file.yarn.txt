@@ -633,9 +633,25 @@ They take turns, alternating between picking the best players and their best fri
 "Jul- no, Charlie!"
 It goes on and on like this, and you can't help but feel they're forgetting something. Soon enough, all the other kids have been spoken for, but you still don't have a team!
 "C'mon, let's go!" says Sally as she grabs your hand and starts to lead you off. "Hey", protests a confused Laney, "I thought you were on my side!"
-It looks like both of them just assumed you were already on their team from the get-go!
+It looks like both of them just assumed you were already on their team from the get-go! They're probably not going to be able to work this one out amongst themselves: it's up to you to decide who you want to carry to victory and who will be crushed by the might of your combined forces.
 
-[[Turn to page #.|ball6]]
+[[If you join Sally's team, turn to page #.|ball6]]
+[[If you join Laney's team, turn to page #.|ball6]]
+[[If you decide to sit this one out, turn to page #.|sidelines]]
+===
+title: sidelines
+---
+Sensing a hostility brewing that you're really just not comfortable with, you decide to sit this one out. You explain that it's not that you don't want to play, or that you're mad at Laney or Sally -- you want to be a part of this group! It's just that you already have a very stressful life outside of baseball, and this was supposed to be your big day to leave all that behind and enjoy yourself. You do <i>not</i> want to be the source of drama, especially in such a public and otherwise welcoming setting, and would much rather just take a break from it than exacerbate the problem.
+Your friends are disappointed, but understanding, and the two teams set off to play their game while you take a seat on the bench.
+You can't help but feel a bit left out of course, but even if you aren't playing, you can still have a good time. You cheer on your classmates, ooh-ing and aah-ing as both teams hit their highs and lows. After some time, Miss Inglewood takes a seat next to you.
+"For what it's worth, I think you made the right decision." She doesn't bother to lower her gaze from the game while speaking to you. "Your friends, your classmates -- these children-"
+She pauses to take a bite of her hot-dog.
+"-they aren't like you or me. Look at them, running around out there like animals!"
+A low chuckle escapes her lips. "They live like animals, and one day, so too will they die like animals." Unsure of what to say in response, you simply sit silently as she takes a sip from a cup of cola, stands up, and marches out onto the field to break up a shouting match over whether Sally was safe or out.
+You're never quite sure what Miss Inglewood was talking about, but even now, years later, you can't help but think back to that day at the baseball diamond and feel like you missed out on something greater.
+END
+
+[[To restart and try again, turn to page #.|Start]]
 ===
 title: spy2death
 tags: 
