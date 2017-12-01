@@ -724,13 +724,20 @@ That didn't really work out as expected, but luckily, you end up twiddling your 
 ===
 title: ball7
 ---
-bottom of the ninth etc
-[[hit a home run somehow, turn to page #.|homerun]]
-[[screw up and die, turn to page #.|deathbyball]]
+Sally's team had fallen behind in the first few innings, but they pull off an almost miraculous grand slam in the top of the 8th, leaving Laney and you to play catch-up. You get a couple more runners through on your turn at the bat and take the lead again, but only by a single point. Sally's team manages to close that gap on their next turn and tie up the game: looks like you're in it for the long haul.
+And here you are, tied game, bottom of the ninth, bases loaded. All you need is a single point to win the game here and now, but you're already one batter down with a second coming close behind: Laney's taken it upon herself to bat second, and only has one strike left.
+Sally's been pitching her A-game all day, and now's no exception: a single tight curveball later and Laney is out for the count.
+"It's all up to you now", she says, handing you the bat and taking a seat.
+Taking your position, you get ready for the ball coming your way. It's like something out of a cheesy sports movie, except you're not really sure which of you is the underdog with the heart of gold in this situation. You've been playing with Sally long enough to know that she's going to try the same move on you that she did on Laney, but that doesn't mean you know you can hit it.
+
+[[If you take the risky swing, turn to page #.|homerun]]
+[[If you play it safe and bunt, turn to page #.|deathbyball]]
 ===
 title: deathbyball
 ---
-A ball hits you or something
+There's no point in trying such a risky maneuver when all you need is a single point: you decide to wait until Sally is just about the throw the ball, and then quickly square up for a bunt.
+The ball sends a reverberation through the bat and into your body as it rebounds. It's intense, but you shouldn't be too surprised: Sally's got one heck of an arm on her, after all. You drop the bat and get ready to run, but a few steps in, lose your balance and fall to the ground. A few fielders go chasing after the ball, but everyone else is just standing around, and for good reason: they felt those vibrations too. What's going on? Is this an earthquake?
+Without any further warning, the ground beneath you crumbles, sending you and most of the other players plummeting into the depths below.
 It looks like you were wrong -- not only was this <i>not</i> an amazing day, it was your last!
 END
 
