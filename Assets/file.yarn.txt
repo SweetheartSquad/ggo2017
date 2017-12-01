@@ -635,7 +635,7 @@ It goes on and on like this, and you can't help but feel they're forgetting some
 "C'mon, let's go!" says Sally as she grabs your hand and starts to lead you off. "Hey", protests a confused Laney, "I thought you were on my side!"
 It looks like both of them just assumed you were already on their team from the get-go! They're probably not going to be able to work this one out amongst themselves: it's up to you to decide who you want to carry to victory and who will be crushed by the might of your combined forces.
 
-[[If you join Sally's team, turn to page #.|ball6]]
+[[If you join Sally's team, turn to page #.|teamsally]]
 [[If you join Laney's team, turn to page #.|ball6]]
 [[If you decide to sit this one out, turn to page #.|sidelines]]
 ===
@@ -649,6 +649,24 @@ She pauses to take a bite of her hot-dog.
 "-they aren't like you or me. Look at them, running around out there like animals!"
 A low chuckle escapes her lips. "They live like animals, and one day, so too will they die like animals." Unsure of what to say in response, you simply sit silently as she takes a sip from a cup of cola, stands up, and marches out onto the field to break up a shouting match over whether Sally was safe or out.
 You're never quite sure what Miss Inglewood was talking about, but even now, years later, you can't help but think back to that day at the baseball diamond and feel like you missed out on something greater.
+END
+
+[[To restart and try again, turn to page #.|Start]]
+===
+title: teamsally
+---
+"Sorry Laney", you say, allowing the ice of competition to creep into your tone, "but it looks like you're going down."
+You start walking over to Sally's team, and she reaches one hand up for a high five. Unfortunately, you leave her hanging as everything goes black.
+
+[[Turn to page #.|teamsally2]]
+===
+title: teamsally2
+---
+You wake up with a start in a plain white room. Feeling somewhat dizzy, you slowly sit up and examine your surroundings: you're in a foreign bed; you're wearing a thin gown; there are balloons and flowers on a table beside you. What's going on?
+A woman rushes into the room and warns you to take it easy: she explains to you that you've been in the hospital for three days with a serious head injury, and are likely suffering from symptoms of a concussion. The woman -- who you later find out is the doctor that has been handling your case -- continues to lay out the details of how you ended up here. Apparently, during a school field trip to a famous baseball stadium ("What? But that's next week!" you exclaim, not yet processing the memory loss) one of the other students attacked you with a bat.
+Your friends and family all stop by with well-wishes over the next couple days. At one point, Laney's parents drop by. It's more than a bit awkward for you, but they apologize profusely for her behaviour and let you know that not only does she feel absolutely awful about what happened, but that she whole-heartedly agreed with the school's recommendation to seek counselling and have her attend an anger management class during her suspension.
+You're not sure how you feel about this; on the one hand, you want to be supportive of your friend who seems to be going through a rough time, but on the other hand, she did clobber your noggin over a silly game.
+In any case, you'll have a couple more days to process your feelings while the hospital keeps you under close watch during your recovery period.
 END
 
 [[To restart and try again, turn to page #.|Start]]
