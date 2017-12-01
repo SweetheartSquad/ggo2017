@@ -396,20 +396,6 @@ FILL THIS IN LATER
 [[To restart and try again, turn to page #.|Start]]
 
 ===
-title: spy2
-tags: 
-colorID: 0
-position: -169,403
----
-You turn the left knob. The sink shudders and begins to slide to the right, revealing a small tunnel. You're wary of entering, but by the time you try to say something, Laney is already inside, and Sally is starting to go in. You sigh, and follow your friends into the tunnel. Someone's got to watch out for these two!
-
-The tunnel is chilly, and a bit damp. You crawl for what seems like ten minutes, going through various twists and turns. Finally, you reach an exit. 
-
-FINISH THIS LATER
-
-[[To restart and try again, turn to page #.|Start]]
-
-===
 title: spy2death
 tags: 
 colorID: 0
