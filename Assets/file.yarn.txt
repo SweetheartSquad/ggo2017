@@ -349,7 +349,7 @@ title: ghostie1
 title: ghostie2
 ---
 "Baseball isn't dead, sir," you tell him. "Why, I play little league two times a week with my best friends, Laney and Sally! Our team is really good, we might even make it to finals this year. And my family goes to see every Red Sox game. Everyone loves you, Mr. Baseball, sir!" The ghost goes quiet and seems to think about this.
-"Could it be?" he says quietly. "Could it be that I'm... still alive?" His body begins to glow with a strange light. Traslucent baseball gloves appear and begin to rotate around the ghost as he slowly lifts off the ground.
+"Could it be?" he says quietly. "Could it be that I'm... still alive?" His body begins to glow with a strange light. Translucent baseball gloves appear and begin to rotate around the ghost as he slowly lifts off the ground.
 "You should go up to the stadium," you continue. "All my classmates are playing a game of baseball right now." The ghost chuckles at this , and glows even brighter.
 "Maybe you're right, kid," he says. "Maybe I haven't passed my prime after all!" Ghostly baseball bats appear around him now, twirling counter to the baseball gloves. The apparitions seem to make the ghost shine brighter and brighter. Soon, he's ascended to the ceiling. He looks down at you. "Thank you for believing in me," he says, and vanishes.
 A door sparkles into existence in the cave wall in front of you. You open it, and find a staircase leading back up to the stadium. You find your class, out on the field, still playing that good ol' game of baseball. Smiling, you pick up a glove and join them.
@@ -483,7 +483,7 @@ Frantically you turn around and start crawling back through the tunnel, still bl
 
 "Oh, looks like someone has joined us for detention," sneers Ms. Inglewood.
 
-Eyes blurred you look back down the tunnel and see Ms. Inglewood pointing some sort of contraption at you. Another flash of light fills the tunnel. 
+Eyes blurred, you look back down the tunnel and see Ms. Inglewood pointing some sort of contraption at you. Another flash of light fills the tunnel. 
 
 You hear nothing.
 
@@ -497,14 +497,14 @@ Blinded, you suddenly realize the smell of burnt hair has filled your hiding spo
 
 "Pity," you hear Ms. Inglewood chortle, "You were both such bright students!"
 
-You clamp your hands over your mouth. To prevent you from screaming or vomitting, you don't know. Either way it seems to do the trick. You hear Ms. Inglewood begin to walk again and soon you hear her footsteps dissapear in the distance. As your vision returns you decide what you must do next.
+You clamp your hands over your mouth. To prevent you from screaming or vomiting, you don't know. Either way it seems to do the trick. You hear Ms. Inglewood begin to walk again and soon you hear her footsteps disappear in the distance. As your vision returns you decide what you must do next.
 
 [[If you want to avenge your friends, turn to page #.|tunnelKeepGoing]]
 [[If you want to run out and find help, turn to page #.|leaveTunnel]]
 ===
 title: leaveTunnel
 ---
-This is crazy! Ms. Inglewood is some kind of crazy mad scientist with a raygun! What are you supposed to do! You do the sensible thing and turn around and scramble out of the tunnels and back to the dugout. 
+This is crazy! Ms. Inglewood is some kind of crazy mad scientist with a ray gun! What are you supposed to do! You do the sensible thing and turn around and scramble out of the tunnels and back to the dugout. 
 
 Frantically you try to look for someone to tell, preferably an adult. Then you see out on the field, Amy, still leading the class giving her schpiel. She'll have to do. Almost out of breath, you run towards her screaming. Her and the rest of the class turn to you, looking very confused. As you make it past first base you suddenly hear a loud CHUNK sound. CHUNK.
 
@@ -519,14 +519,14 @@ The ground begins to shake again, and from the shadows appears some sort of larg
 "What in the world!" you hear Amy shout from across the gap.
 Now towering in front of you, you see it. A giant laser.
 
-"Finally I have the means to fullfill my ultimate goal!" shouts Ms. Inglewood triumphantly.
+"Finally I have the means to fulfill my ultimate goal!" shouts Ms. Inglewood triumphantly.
 "Why are you doing this!" you cry out.
 
 [[Turn to page #.|monologueContIngle]]
 ===
 title: monologueContIngle
 ---
-"It's simple really," says Ms. Inglewood. "You see, I never wanted to have to teach you stupid brats. I was supposed to go to Harvard for a double major in Areospace Engineering and Chemistry! I was going to be famous! I had worked so hard my entire life, prepared for years. I had the perfect application! But the stupid postal service in this forsaken city had lost my application! I knew something was wrong when I hadn't heard from them immediately. I waited weeks and not a single peep! That's when I called and they told me that my application had never even arrived. I told them there was some kind of mistake, that I had sent my application, that I would go and deliver it to them in person if I had to, but they said it was too late. They were giving me! A genius! The cold-shoulder! How dare they! From that day on I began my plan to destroy this horrid reminder of what I could have been, and wiping it from the face of the Earth!"
+"It's simple really," says Ms. Inglewood. "You see, I never wanted to have to teach you stupid brats. I was supposed to go to Harvard for a double major in Aerospace Engineering and Chemistry! I was going to be famous! I had worked so hard my entire life, prepared for years. I had the perfect application! But the stupid postal service in this forsaken city had lost my application! I knew something was wrong when I hadn't heard from them immediately. I waited weeks and not a single peep! That's when I called and they told me that my application had never even arrived. I told them there was some kind of mistake, that I had sent my application, that I would go and deliver it to them in person if I had to, but they said it was too late. They were giving me! A genius! The cold-shoulder! How dare they! From that day on I began my plan to destroy this horrid reminder of what I could have been, and wiping it from the face of the Earth!"
 
 After finishing her monologue, Ms. Inglewood reaches to the large lever beside her, and pulls it. A terrifying noise fills the air and electricity begins to spark from the end of the laser.
 
@@ -540,7 +540,7 @@ title: tunnelSafe
 ---
 You pull Laney and Sally back into the tunnel, telling them you all need to be more cautious. From outside into the hallway the three of you hear footsteps quickly approaching. 
 
-"Do you think that's Ms. Inglewo--" Laney trys to say before you cover her mouth. After waiting a moment the sound of footsteps fade away into the distance. Laney shakes free of your grasp. 
+"Do you think that's Ms. Inglewo--" Laney tries to say before you cover her mouth. After waiting a moment the sound of footsteps fade away into the distance. Laney shakes free of your grasp. 
 
 "Okay enough hanging out in cramped tunnels," she says taking hold of you and Sally's hand as she jumps out into the hallway.
 "Well this is creepy."
@@ -563,7 +563,7 @@ She gives it a push. It doesn't seem to have any effect.
 As you step up, the ground begins to shake. Looking around you can see the pipes of glowing liquid begin to flow in the direction Ms. Inglewood went.
 "Hurry!" Laney yells.
 
-The three of you begin pushing on the battery with all of your might as dust falls from the celing and the ground conintues to shake.
+The three of you begin pushing on the battery with all of your might as dust falls from the ceiling and the ground continues to shake.
 Finally with a final heave you are able to remove the giant battery from place. Almost immediately the shaking stops, as well as the flow of the liquid. You look further down a hall and see what looks to be sunlight coming from a slightly ajar door. As fast as you can muster, you run with your friends towards it.
 
 Opening the door you find a giant room with no ceiling, and a giant contraption towering over you, peaking its head above ground.
@@ -578,7 +578,7 @@ END
 ===
 title: keepGoing_grp
 ---
-"This doesn't look very safe guys. Lets just keep going," you say as you back away from the giant hazard. You look further down the hallway and see a closed door. Slowly your group inches foward. Dust begins to fall from the ceiling.
+"This doesn't look very safe guys. Lets just keep going," you say as you back away from the giant hazard. You look further down the hallway and see a closed door. Slowly your group inches forward. Dust begins to fall from the ceiling.
 
 "What's going on," says Sally nervously.
 
@@ -613,11 +613,11 @@ title: removeBattery_solo
 "Well whatever this is powering can't be good," you say walking up to the battery.
 You try to give it a push. It doesn't seem to have any effect. You try again and again, nothing. It's just too heavy for you. If only your friends were still alive.
 
-As you step back, the ground begins to shake. Looking around you can see the pipes of glowing liquid begin to flow in the direction Ms. Inglewood went. The loud ear-peircing sound of machiery soon follows, along with more quakes shaking the hallway with growing intensity. Dust and debris fall on you from the celing.
+As you step back, the ground begins to shake. Looking around you can see the pipes of glowing liquid begin to flow in the direction Ms. Inglewood went. The loud ear-piercing sound of machinery soon follows, along with more quakes shaking the hallway with growing intensity. Dust and debris fall on you from the ceiling.
 
 Down the hallway you see light appear under a door that the quakes have cause to come ajar. As fast as you can muster, you run towards it.
 
-Opening the door you find a giant room with no ceiling, and a giant contraption towering over you, peaking its head above ground. At the seat of the controls you spy none other than Ms. Inglewood, laughing maniaclly. You see her pull a giant lever beside her as eletricity sprouts from the towering object.
+Opening the door you find a giant room with no ceiling, and a giant contraption towering over you, peaking its head above ground. At the seat of the controls you spy none other than Ms. Inglewood, laughing maniacally. You see her pull a giant lever beside her as electricity sprouts from the towering object.
 
 It's the last thing you ever see.
 END
@@ -628,11 +628,11 @@ title: keepGoing_solo
 ---
 "This thing will probably kill me if I touch it," you say hesitantly.
 
-As you step back, the hallway begins to shake. Looking around you can see the pipes of glowing liquid begin to flow in the direction Ms. Inglewood went. The loud ear-peircing sound of machiery soon follows, along with even more intesnse quakes shaking the hallway. Dust and debris fall on you from the ceiling.
+As you step back, the hallway begins to shake. Looking around you can see the pipes of glowing liquid begin to flow in the direction Ms. Inglewood went. The loud ear-piercing sound of machinery soon follows, along with even more intense quakes shaking the hallway. Dust and debris fall on you from the ceiling.
 
 Following down the hallway you see light appear under a once locked door that the quakes have caused to open. As fast as you can muster, you run towards it.
 
-You burst through the doorway to find a giant room with no ceiling, and a giant contraption towering over you, peaking its head above the surface. At the seat of the controls you spy none other than Ms. Inglewood, laughing maniaclly. You see her pull a giant lever beside her as eletricity sprouts from the towering object.
+You burst through the doorway to find a giant room with no ceiling, and a giant contraption towering over you, peaking its head above the surface. At the seat of the controls you spy none other than Ms. Inglewood, laughing maniacally. You see her pull a giant lever beside her as electricity sprouts from the towering object.
 
 It's the last thing you ever see.
 END
@@ -777,7 +777,7 @@ Maybe this will be the year, your year. The year you finally take the first step
 title: weirdChild2
 ---
 You stand in place. Staring blankly ahead you hear your parents mumbling to each other behind you under their breath.
-"You okay sweety?" your Mom asks nervously.
+"You okay, sweetie?" your Mom asks nervously.
 "Everything's going to be fine," your Dad attempts to say in an assuring fashion, but you guess he may have his own doubts.
 Your mother slowly reaches out her hand and nudges you in the shoulder.
 
