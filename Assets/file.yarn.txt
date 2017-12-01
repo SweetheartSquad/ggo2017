@@ -36,7 +36,7 @@ position: 122,-1396
 <nobr></nobr>Remember—you cannot go back! Think carefully before you make a move! One mistake can be your last... or it <i>may</i> lead you to fame and fortune!
 
 [[To start the adventure, turn to page #.|ball1]]
-[[go to magic school instead, turn to page #.|magicSchool]]
+[[Go to magic school instead, turn to page #.|magicSchool]]
 ===
 title: explore1
 tags: 
@@ -56,7 +56,7 @@ tags:
 colorID: 0
 position: -536,-417
 ---
-that was dumb you got caught
+That was dumb, you got caught
 END
 
 [[To restart and try again, turn to page #.|Start]]
@@ -461,11 +461,16 @@ Now towering in front of you, you see it. A giant laser.
 
 "Finally I have the means to fullfill my ultimate goal!" shouts Ms. Inglewood triumphantly.
 "Why are you doing this!" you cry out.
+
+[[Turn to page #.|monologueContIngle]]
+===
+title: monologueContIngle
+---
 "It's simple really," says Ms. Inglewood. "You see, I never wanted to have to teach you stupid brats. I was supposed to go to Harvard for a double major in Areospace Engineering and Chemistry! I was going to be famous! I had worked so hard my entire life, prepared for years. I had the perfect application! But the stupid postal service in this forsaken city had lost my application! I knew something was wrong when I hadn't heard from them immediately. I waited weeks and not a single peep! That's when I called and they told me that my application had never even arrived. I told them there was some kind of mistake, that I had sent my application, that I would go and deliver it to them in person if I had to, but they said it was too late. They were giving me! A genius! The cold-shoulder! How dare they! From that day on I began my plan to destroy this horrid reminder of what I could have been, and wiping it from the face of the Earth!"
 
 After finishing her monologue, Ms. Inglewood reaches to the large lever beside her, and pulls it. A terrifying noise fills the air and electricity begins to spark from the end of the laser.
 
-The last thing you see is the psychotic smile on Ms. Inglewoods face.
+The last thing you see is the psychotic smile on Ms. Inglewood's face.
 
 END
 
@@ -508,6 +513,8 @@ You and your friends are praised as heroes, and are given the key to the city!
 
 Congratulations!
 END
+
+[[To restart and try again, turn to page #.|Start]]
 ===
 title: keepGoing_grp
 ---
