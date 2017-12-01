@@ -268,9 +268,44 @@ tags:
 colorID: 0
 position: 841,430
 ---
-Thankful for the ample supply of oxygen, you take a few moments to simply tread water and breathe deeply. The dank, stale air of the caverns may as well be a cool spring breeze after what you've been through. You briefly recall the reasons for putting yourself through that watery heck-hole and wonder if your pursuers were persistent enough to have followed suit. You're fairly certain it was narrow enough in some parts that they would have gotten stuck (sucks to be them), so whether they did or not, you should be able to relax for the time being.
+Thankful for the ample supply of oxygen, you take a few moments to simply tread water and breathe deeply. The dank, stale air of the caverns may as well be a cool spring breeze after what you've been through.
+It looks like the basin you've ended up in is being actively fed by the current which dragged you here. There are no similar channels leading outwards from this area though, and the water is constantly overflowing in small streams and seeping through various tiny cracks and crevices. There's a single gap in the walls that looks wide enough for you to fit through. Seems to be your only option for getting out of here. The only other hole that seems person-sized is the channel you rode into here, and you're certainly not going back that way.
+You briefly recall the reasons for putting yourself through that watery heck-hole and wonder if your pursuers were persistent enough to have followed suit. You're fairly certain it was narrow enough in some parts that they would have gotten stuck (sucks to be them), so whether they did or not, you should be able to relax for the time being.
 
-[[To restart and try again, turn to page #.|Start]]
+[[If you take a moment to relax, turn to page #.|currentrelax]]
+[[If you move on immediately, turn to page #.|current3]]
+===
+title: currentrelax
+tags: 
+colorID: 0
+position: 941,430
+---
+Ahh...
+
+[[If you relax a little longer, turn to page #.|currentrelax2]]
+[[If you decide to move on, turn to page #.|current3]]
+===
+title: currentrelax2
+tags: 
+colorID: 0
+position: 941,430
+---
+Mmm...
+
+[[If you continue relaxing, turn to page #.|currentrelax]]
+[[If you decide to move on, turn to page #.|current3]]
+===
+title: current3
+tags: 
+colorID: 0
+position: 941,430
+---
+Snapping your thoughts back into action, you wade towards the edge the pool. It's nice to be on solid ground again, but you're absolutely soaked. Drenched through and through. You spend a bit of time wringing the water from your clothes, but you'd kill for a towel right about now. Still dripping wet, you start squeezing through the small vertical slit. It's a tight fit -- hopefully it widens up somewhere down the line or you're just going to end up wet, sore, and stuck.
+
+TODO: THIS
+
+[[Turn to page #.|current2]]
+===
 ===
 title: ball1
 tags: 
