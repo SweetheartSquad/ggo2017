@@ -272,3 +272,240 @@ Thankful for the ample supply of oxygen, you take a few moments to simply tread 
 
 [[To restart and try again, turn to page #.|Start]]
 ===
+title: ball1
+tags: 
+colorID: 0
+position: -700,98
+---
+It’s the day of the 2nd grade field trip, and you can’t wait. You and your friends Laney and Sally have been waiting for this all year. This year, you’re going to Fenway Park to get a tour!
+
+You, Laney, and Sally are all on the local girl’s little league team. Laney is the shortstop, Sally is the pitcher, and you’re the star hitter. You’re also the left outfielder, but you’re not very good at catching. Or throwing. But you sure can hit the ball. The three of you are looking forward to seeing all the amazing things the park has to offer. It's been through a lot since it opened in 1912, but it looks as good as ever. You look forward to seeing the Green Monster, the giant green wall of concrete and plastic along the left field. Your dad told you that there are dents in the wall from baseballs, and you want to see for yourself.
+
+Miss Inglewood talks to the man at the front gate. He says something to her, and she leads your class through the turnstiles and into a set of tunnels. Your group keeps walking and eventually makes it out onto the field itself. The park looks so much bigger from the inside. The grass smells freshly cut and the sky above is bright and blue. The Green Monster looms in your peripheral vision. Laney nudges you and points to the famous Lone Red Seat in the stands. You can feel it -- this is going to be an amazing day.
+
+[[Turn to page #.|ball2]]
+===
+title: ball2
+tags: 
+colorID: 0
+position: -446,98
+---
+"Isn't it wonderful?" says Miss Inglewood. You nod your head. It's all you could have hoped for in a ball park.
+
+Miss Inglewood leaves to go get the tour guide. The other kids mull about the field, talking or playing games. You hang around Laney and Sally.
+
+“We should go exploring while Miss Inglewood’s gone,” says Laney. She’s the adventurous one of your group. Sally agrees. You think it would be pretty amazing to explore the park unsupervised, but you also think that you should stay with the group.
+
+“Come on,” says Sally. “Don’t be a wuss.”
+
+[[If you go exploring with your friends, turn to page #.|explore1]]
+[[If you convince your friends to stay with the group, turn to page #.|ball3]]
+===
+title: ball3
+tags: 
+colorID: 0
+position: -699,317
+---
+Laney and Sally groan when you tell them that you should stay with the group, but they agree to stay. You sit down in the grass and make small talk for a little while.
+
+After a few minutes, Miss Inglewood returns with a woman in a clean uniform. She must be the tour guide. The tour guide waves and, once she is within earshot, addresses the group.
+
+"Good afternoon, class! My name is Amy, and I will be your tour guide today."
+
+"Hi, Amy!" chants the class.
+
+"Are you looking forward to the tour?" asks Amy. The class agrees enthusiastically. Amy smiles and asks the class to follow her. Laney rolls her eyes at you. You grin and shrug. You follow the rest of the class and get ready to start the tour.
+
+[[Turn to page #.|ball4]]
+===
+title: ball4
+tags: 
+colorID: 0
+position: -702,572
+---
+Amy the tour guide leads your class to the home team's dugout. You all help each other climb into the deep recess. After you were all inside the dugout, Amy began her talk. "Fenway Park was built in 1911 under the guidance of John Irving Taylor," she said. "Mr. Taylor was the owner of the Boston Red Sox at the time, and he wanted a baseball stadium for his team." Amy goes through a door and leads you deeper into the stadium. The class crowds excitely into a small-ish stone hallway.
+
+You lean over to say something to Laney, but she isn't next to you anymore. Uh oh! Did she run off to explore without you? As you turn around to look for Laney, you bump into her. "Ouch!" hisses Laney.
+
+"Sorry!" you whisper back. Something moves in the corner of you eye and you look, just to see Mrs. Inglewood slip through an unlabelled door. Very strange. Shouldn't she be supervising the class? Laney nudges you.
+
+"Now's our chance!" she whispers. You do kind of want to see where Mrs. Inglewood is going. But you hate to break the rules, even if your teacher is behaving strangely.
+
+[[If you want to follow Mrs. Inglewood through the mysterious door, turn to page #.|spy1]]
+[[If you still want to stay with the group, turn to page #.|ball5]]
+===
+title: spy1
+tags: 
+colorID: 0
+position: -456,321
+---
+You grab Laney and Sally's hands and lead them to the unlabelled door. You glance back at Amy the tour guide, but she seems to be distracted by her tour guide schpiel. You take a deep breath and open the door. The room beyond is dim. You don't see any side of your teacher, though, so you head inside.
+
+The room appears to be a storage space. There are rows of metal shelves, covered in baseball gear and boxes. In the far corner there is a large sink and some cleaning supplies. The three of you split up and being to explore. 
+
+After a few minutes, Sally calls out to you. She's standing by the sink. You head over. "There are footprints here," says Sally. "And I think this is a scrap of Mrs. Inglewood's dress!" Laney jumps up and down, excitedly.
+
+"A secret passage!" she exclaims. You'd definitely agree with that. But how are you going to open it?
+
+[[If you turn the left knob, turn to page #.|spy2]]
+[[If you turn the right knob, turn to page #.|spy2death]]
+
+===
+title: ball5
+tags: 
+colorID: 0
+position: -703,807
+---
+FILL THIS IN LATER
+
+[[To restart and try again, turn to page #.|Start]]
+
+===
+title: spy2
+tags: 
+colorID: 0
+position: -169,403
+---
+You turn the left knob. The sink shudders and begins to slide to the right, revealing a small tunnel. You're wary of entering, but by the time you try to say something, Laney is already inside, and Sally is starting to go in. You sigh, and follow your friends into the tunnel. Someone's got to watch out for these two!
+
+The tunnel is chilly, and a bit damp. You crawl for what seems like ten minutes, going through various twists and turns. Finally, you reach an exit. 
+
+FINISH THIS LATER
+
+[[To restart and try again, turn to page #.|Start]]
+
+===
+title: spy2death
+tags: 
+colorID: 0
+position: -332,643
+---
+You turn the right knob. The sink shudders, then goes quiet. Suddenly, the floor opens up beneath you. You, Sally, and Laney fall into a deep pit. You try to climb the walls, but they are very smooth. Mrs. Inglewood leans over the edge of the pit with a flashlight.
+
+"This is what happens when you don't stick with the group, girls!" And with that, she disappears. You call out for help, but your teacher doesn't come back. There doesn't seem to be anyone else around to hear you.
+END
+
+[[To restart and try again, turn to page #.|Start]]
+
+===
+title: magicSchool
+---
+You arrive at the docks, knees weak and palms sweaty. Since you were young you've had to keep this secret from your friends. That from the age of 5 your parents have been teaching you the magical arts.
+It doesn't really matter though. The regulars, as your parents called them, wouldn't believe you anyway. Without a word to them you left that morning to start a new chapter of your life.
+Your father shuts off the car engine and goes to the back to open the trunk to get your suitcase. You wonder why you bothered to drive here instead of using magic. Dad says it wasn't an experience you were ready for but a part of you doesn't believe him. 
+Maybe he was just used to his regular ways after living among them for so long. You and your mother step out of the car as your dad comes around with your suitcase.
+"You'll be taking the ferry from here," he says, pointing to the run down ship in the distance.
+"We're so proud that you were able to the top magic school in the county!", exclaims your Mom as tears slowly drip from her eyes.
+
+[[If you want to tell your parents you love them, turn to page #.|goodChild]]
+[[If you are consumed by your anxiety, turn to page #.|weirdChild]]
+===
+title: goodChild
+---
+You lean in towards your parents, wrapping your arms around them. "I love you guys," you say as your voice cracks under the weight of their expectations.
+"We love you too. We know you'll do fantastic at school!" your father says softly as his eyes begin to water.
+Slowly you pull back from your parent's embrace. Their tears have left small salty stains on your coat.
+"I've put a little surprise in your suitcase, make sure you wait until you get to your dorm room to open it!" your mother says gleefully.
+"You have about half and hour before the ship leaves. If you're hungry they should have some food on the ferry. From what I remember it wasn't the best but it'll do," your father warns.
+"Now get going. Make lots of friends!"
+You say your final goodbyes and you turn towards the ship. You see some other students have started to congregate in front of the ramp leading to the deck.
+
+[[If you want to head out towards the students, turn to page #.|toStudents_onDock]]
+[[If you want to explore the rest of the harbour, turn to page #.|exploreDock]]
+[[If you want to do nothing, turn to page #.|weirdChild2]]
+===
+title: weirdChild
+---
+You stand still and don't move a muscle. You can feel your eyes drying as you stare blankly at your parents. Shame and regret fills their face.
+Quickly you realize how awkward you've made this situation, but you're too stunned to take corrective action.
+"We know you're nervous, but please try to not embarrass yourself. And please try to make some friends. I know you have a difficult time but just try," your Mom says with a hint of disdain.
+You've known for a while your social skills have been lacking. Most of your friendships up to this point have been due to convenience and proximity, and your weird penchant to hang around the neighbourhood kids without saying a word.
+Maybe this will be the year, your year. The year you finally take the first steps into be a regular non-regular magical person.
+
+[[If you want to break out of the prison that is your own thoughts, turn to page #.|goodChild]]
+[[If you want to head out towards the students, turn to page #.|toStudents_onDock]]
+[[If you want to explore the rest of the harbour, turn to page #.|exploreDock]]
+[[If you want to do nothing, turn to page #.|weirdChild2]]
+===
+title: weirdChild2
+---
+You stand in place. Staring blankly ahead you hear your parents mumbling to each other behind you under their breath.
+"You okay sweety?" your Mom asks nervously.
+"Everything's going to be fine," your Dad attempts to say in an assuring fashion, but you guess he may have his own doubts.
+Your mother slowly reaches out her hand and nudges you in the shoulder.
+
+[[If you want to head out towards the students, turn to page #.|toStudents_onDock]]
+[[If you want to explore the rest of the harbour, turn to page #.|exploreDock]]
+[[If you want to do nothing, turn to page #.|weirdChild3]]
+===
+title: weirdChild3
+---
+A horn bellows in the distance. You can feel the vibrations enter your ears and resonate with your body.
+"It's been half an hour already! You have to hurry to the boat now!" your Dad shouts behind you.
+You try to lift your foot but it is firmly planted in place. Thoughts fill your mind. How you'll be letting your family down if you don't make it onto the ferry.
+How you'll be throwing away the years of magic training you have gone through. About all of the work and time your parents have invested into you. All for nothing.
+Can you take that firs step
+
+[[If you want to sprint to the boat, turn to page #.|runToBoat]]
+[[If you want to do nothing, turn to page #.|weirdChild4]]
+===
+title: weirdChild4
+---
+The ferry's horn sounds off again. You just won't budge. You can't. In the distance you can see the ship set sail, slowly escaping into the sunrise. Tears fall to the ground behind you, and shatter like your dreams of a better life.
+
+[[If you want to use your secret bloodline technique, turn to page #.|bloodlineReboot]]
+===
+title: bloodlineReboot
+---
+You begin to fill with self-loathing. As rage builds up inside of you you can feel the ground and air heat up around you.
+You white out.
+
+[[Turn to page #.|magicSchool]]
+===
+title: runToBoat
+---
+Finally you snap out of your trance. Feeling as though a hex has been lifted your heart races. You run forward a few feet before returning to grab your suitcase. You sprint as fast as you can towards the ship. Magic, while convenient, has also caused you to be a tad out of shape and unfortunately the use of magic at your age can only be used in emergency and educational situations. Its not like you teleporation skills were that great anyway and you wouldn't want to get off on the wrong foot with your new classmates, which would be more likely to happen if you showed up to your first day with only one.
+Ahead you see the students slowly make their way up the ramp to the deck.
+"Hurry up kid or we're going to set sail without you!" shouts a man from the bow.
+
+[[If you want to take your chances and keep running, Turn to page #.|runOntoDeck]]
+[[If you believe you're out of options, Turn to page #.|teleportDocks]]
+===
+title: teleportDocks
+---
+As you sprint you see the deck hands begin to untie the knots holding the ferry to the dock. Out of surprising coincidence your shoelaces decide to follow suit and untie themselves. With an exasperated yell you trip and fall face first into the concrete. Could this be the end of your whole magical career, right then and there? "No," you mutter under your breath. You close your eyes and concentrate, imagining your body moving from where you are, with your face bloodied and arms scraped, to the deck of the ferry. You feel heat slowly build up inside of you, and suddenly feel it release from your body.
+
+[[Turn to page #.|halved]]
+===
+title: halved
+---
+You open your eyes laying on your back. Students and crew members surround you, their eyes wide. "I did it," you think to yourself. You try to get up but your exhaustion prevents you. You close your eyes once more. Suddenly a young boy beside you screams out. You open your eyes to look at his face, morphed hidiously by terror. Beside him one of the crew members vomits.
+"Someone get the nurse! Quick!" shouts a voice you cannot see.
+You wonder what could be going on as you feel a liquid start pooling around your ear. Using what remains of your strenght you try to look around.
+You see blood. A lot of blood.
+It turns out you were as good at magic as you thought, but less than you hoped, and that your top half is no long on top of your bottom half.
+The remaining students are too mortified by the sight of you to continue with the school year. The magical community takes a huge hit due to a generation of uneducated individuals.
+
+[[To use your secret bloodline technique while you still have blood, turn to page #.|bloodlineReboot]]
+===
+title: exploreDock
+---
+The salt in the air fills your nostrils as you begin to walk around the docks. You're reminded of the summer days you spent at the beach with your family. To your right you see a boat of fishermen set off in the early morning. The seaguls hitching a ride squack in excitement. You feel the breeze of the ocean as it gently blows across your face. It fills you with determination.
+
+Suddenly the sound of the ships horn cracks through the serene setting! Time to begin your journey.
+
+[[To join the rest of the students, turn to page #.|toStudents_onDock]]
+===
+title: toStudents_onDock
+---
+As you get closer to the boat you see the rest of the students begin to line up and prepare boarding the vessel. At the front is a tall woman with a stern face, staring in your direction. You decide to pick up the pace and fall in to the back of the line just as it begins moving. Looking around at all the faces of your fellow students, you realize how many other irregulars there were. Until today your parents were the only magic users you knew but now they were everywhere. You hope someone won't accidentally sneeze and sink the ship on your journey.
+"Hurry now! Quit your daydreaming!" the woman snaps. "We must leave on time. The ferry hasn't had a late departure in over 500 years and we won't be breaking that tradtion today over the likes of you!"
+Nervous, you drag your suitcase up the ramp, wondering how a 500 year old streak exist in a country that as far as you know was a few centuries younger than that.
+You make it to the deck. The other students have already seated, and seemingly split into cliques.
+"That was quick," you mutter to yourself.
+Before you, you see a shy group of individuals quietly talking amongst themselves and trying to not be a bother to anyone.
+To your right you spot a rowdier group of kids hangy by the railing, laughing and screaming in a chaotic fashion.
+
+[[If you want to go sit with them dang nerds, turn to page #.|sitWithNerds]]
+[[If you want to go talk to the rowdy bums, turn to page #.|talkWithAssholes]]
+===
