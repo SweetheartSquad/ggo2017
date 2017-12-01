@@ -36,7 +36,7 @@ position: 122,-1396
 <nobr></nobr>Remember—you cannot go back! Think carefully before you make a move! One mistake can be your last... or it <i>may</i> lead you to fame and fortune!
 
 [[To start the adventure, turn to page #.|ball1]]
-[[go to magic school instead, turn to page #.|magicSchool]]
+[[Go to magic school instead, turn to page #.|magicSchool]]
 ===
 title: explore1
 tags: 
@@ -56,7 +56,7 @@ tags:
 colorID: 0
 position: -536,-417
 ---
-that was dumb you got caught
+That was dumb, you got caught
 END
 
 [[To restart and try again, turn to page #.|Start]]
@@ -521,11 +521,16 @@ Now towering in front of you, you see it. A giant laser.
 
 "Finally I have the means to fullfill my ultimate goal!" shouts Ms. Inglewood triumphantly.
 "Why are you doing this!" you cry out.
+
+[[Turn to page #.|monologueContIngle]]
+===
+title: monologueContIngle
+---
 "It's simple really," says Ms. Inglewood. "You see, I never wanted to have to teach you stupid brats. I was supposed to go to Harvard for a double major in Areospace Engineering and Chemistry! I was going to be famous! I had worked so hard my entire life, prepared for years. I had the perfect application! But the stupid postal service in this forsaken city had lost my application! I knew something was wrong when I hadn't heard from them immediately. I waited weeks and not a single peep! That's when I called and they told me that my application had never even arrived. I told them there was some kind of mistake, that I had sent my application, that I would go and deliver it to them in person if I had to, but they said it was too late. They were giving me! A genius! The cold-shoulder! How dare they! From that day on I began my plan to destroy this horrid reminder of what I could have been, and wiping it from the face of the Earth!"
 
 After finishing her monologue, Ms. Inglewood reaches to the large lever beside her, and pulls it. A terrifying noise fills the air and electricity begins to spark from the end of the laser.
 
-The last thing you see is the psychotic smile on Ms. Inglewoods face.
+The last thing you see is the psychotic smile on Ms. Inglewood's face.
 
 END
 
@@ -568,6 +573,8 @@ You and your friends are praised as heroes, and are given the key to the city!
 
 Congratulations!
 END
+
+[[To restart and try again, turn to page #.|Start]]
 ===
 title: keepGoing_grp
 ---
@@ -657,9 +664,64 @@ They take turns, alternating between picking the best players and their best fri
 "Jul- no, Charlie!"
 It goes on and on like this, and you can't help but feel they're forgetting something. Soon enough, all the other kids have been spoken for, but you still don't have a team!
 "C'mon, let's go!" says Sally as she grabs your hand and starts to lead you off. "Hey", protests a confused Laney, "I thought you were on my side!"
-It looks like both of them just assumed you were already on their team from the get-go!
+It looks like both of them just assumed you were already on their team from the get-go! They're probably not going to be able to work this one out amongst themselves: it's up to you to decide who you want to carry to victory and who will be crushed by the might of your combined forces.
 
-[[Turn to page #.|ball6]]
+[[If you join Sally's team, turn to page #.|teamsally]]
+[[If you join Laney's team, turn to page #.|teamlaney]]
+[[If you decide to sit this one out, turn to page #.|sidelines]]
+===
+title: sidelines
+---
+Sensing a hostility brewing that you're really just not comfortable with, you decide to sit this one out. You explain that it's not that you don't want to play, or that you're mad at Laney or Sally -- you want to be a part of this group! It's just that you already have a very stressful life outside of baseball, and this was supposed to be your big day to leave all that behind and enjoy yourself. You do <i>not</i> want to be the source of drama, especially in such a public and otherwise welcoming setting, and would much rather just take a break from it than exacerbate the problem.
+Your friends are disappointed, but understanding, and the two teams set off to play their game while you take a seat on the bench.
+You can't help but feel a bit left out of course, but even if you aren't playing, you can still have a good time. You cheer on your classmates, ooh-ing and aah-ing as both teams hit their highs and lows. After some time, Miss Inglewood takes a seat next to you.
+"For what it's worth, I think you made the right decision." She doesn't bother to lower her gaze from the game while speaking to you. "Your friends, your classmates -- these children-"
+She pauses to take a bite of her hot-dog.
+"-they aren't like you or me. Look at them, running around out there like animals!"
+A low chuckle escapes her lips. "They live like animals, and one day, so too will they die like animals." Unsure of what to say in response, you simply sit silently as she takes a sip from a cup of cola, stands up, and marches out onto the field to break up a shouting match over whether Sally was safe or out.
+You're never quite sure what Miss Inglewood was talking about, but even now, years later, you can't help but think back to that day at the baseball diamond and feel like you missed out on something greater.
+END
+
+[[To restart and try again, turn to page #.|Start]]
+===
+title: teamsally
+---
+"Sorry Laney", you say, allowing the ice of competition to creep into your tone, "but it looks like you're going down."
+You start walking over to Sally's team, and she reaches one hand up for a high five. Unfortunately, you leave her hanging as everything goes black.
+
+[[Turn to page #.|teamsally2]]
+===
+title: teamsally2
+---
+You wake up with a start in a plain white room. Feeling somewhat dizzy, you slowly sit up and examine your surroundings: you're in a foreign bed; you're wearing a thin gown; there are balloons and flowers on a table beside you. What's going on?
+A woman rushes into the room and warns you to take it easy: she explains to you that you've been in the hospital for three days with a serious head injury, and are likely suffering from symptoms of a concussion. The woman -- who you later find out is the doctor that has been handling your case -- continues to lay out the details of how you ended up here. Apparently, during a school field trip to a famous baseball stadium ("What? But that's next week!" you exclaim, not yet processing the memory loss) one of the other students attacked you with a bat.
+Your friends and family all stop by with well-wishes over the next couple days. At one point, Laney's parents drop by. It's more than a bit awkward for you, but they apologize profusely for her behaviour and let you know that not only does she feel absolutely awful about what happened, but that she whole-heartedly agreed with the school's recommendation to seek counselling and have her attend an anger management class during her suspension.
+You're not sure how you feel about this; on the one hand, you want to be supportive of your friend who seems to be going through a rough time, but on the other hand, she did clobber your noggin over a silly game.
+In any case, you'll have a couple more days to process your feelings while the hospital keeps you under close watch during your recovery period.
+END
+
+[[To restart and try again, turn to page #.|Start]]
+===
+title: teamlaney
+---
+"Sorry Sally", you say, casting your new opponent a fiery over-the-shoulder glare, "but it looks like you're going down."
+You start walking over to Laney's team, and she reaches one hand up for a high five. You absolutely nail it with a thundering *<smallcaps>clap</smallcaps>* and then bring it back around for a perfectly synchronized follow-up down-low *<smallcaps>slap</smallcaps>*. The two teams separate to start picking positions and strategizing.
+
+
+[[If you hit a homerun, turn to page #.|homerun]]
+===
+title: homerun
+---
+<align=center><b>*<smallcaps>crack</smallcaps>*</b></align>
+It's a hit! You drop the bat and break into a sprint, when suddenly your whole team starts cheering wildly and running towards you:
+<align=center>"WAY TO GO!"
+"YOU DID IT!!"
+<b>"IT'S A HOME RUN!!!"</b></align>
+Not only did you hit the ball, you hit it straight out of the park! You slow your run to a jog, and are swarmed by your team-mates all joining in for a huge group hug. Unable to hold back their amazement over the incredible victory, the other team starts to join in on the celebration. Laney and Sally hoist you up on their shoulders and start to parade you around the diamond for your final lap while everyone else applauds.
+You were right -- today was an amazing day!
+END
+
+[[To restart and try again, turn to page #.|Start]]
 ===
 title: spy2death
 tags: 
