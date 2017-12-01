@@ -329,9 +329,9 @@ position: -446,98
 
 Miss Inglewood leaves to go get the tour guide. The other kids mull about the field, talking or playing games. You hang around Laney and Sally.
 
-“We should go exploring while Miss Inglewood’s gone,” says Laney. She’s the adventurous one of your group. Sally agrees. You think it would be pretty amazing to explore the park unsupervised, but you also think that you should stay with the group.
+"We should go exploring while Miss Inglewood’s gone," says Laney. She’s the adventurous one of your group. Sally agrees. You think it would be pretty amazing to explore the park unsupervised, but you also think that you should stay with the group.
 
-“Come on,” says Sally. “Don’t be a wuss.”
+"Come on," says Sally. "Don’t be a wuss."
 
 [[If you go exploring with your friends, turn to page #.|explore1]]
 [[If you convince your friends to stay with the group, turn to page #.|ball3]]
