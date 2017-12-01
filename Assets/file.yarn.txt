@@ -237,7 +237,11 @@ Being a hero sounds pretty cool to you, but you're not sure you want to help the
 ===
 title: chamber3
 ---
-Yikes
+You can't see any way out of this. You nod sadly at Dr. Maria. She smiles warmly and guides you to the table. "Now, we're gonna need to strap you in here. Once the serum his your bloodstream, things are gonna get a little, uhhh, gruesome!" The doctor presses some buttons on the surrounding machine, and pulls a syringe seemingly out of nowhere. The syringe is attached by a hose to one of the machines. "You ready?" asks Dr. Maria. You nod, and she slams the needle into your arm.
+Your mind explodes into overdrive. You can barely think as your whole body shakes and begins to transform. You feel an intense dull pain as your muscles expand and grow. You start to feel angry. REALLY angry. Why are you being contained?? You try to struggle out of the restraints to no avail.
+As the pain subsides, you start to think clearly again. Dr. Maria is jumping up and down excitedly. "We did it! You're beautiful! Wait 'til the boys upstairs see you!"
+Sure enough, the boys upstairs are a fan. You look at yourself in a mirror and see an enormous monster looking back at you. Maybe this super soldier thing won't be so bad, you think.
+But once they put you out in the field, you realize there's no joy in your work. With a mere touch, you can make armies fall, communities crumble. The government sends you in to wreak havoc, and they swoop in to plunder the scorched land. You wish that you refused the injection and tried to escape, even if it meant certain death. That, at least, would have been honourable.
 END
 
 [[To restart and try again, turn to page #.|Start]]
