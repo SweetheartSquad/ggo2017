@@ -217,14 +217,43 @@ Noticing a delay in your steps as you recover and take it all in, your captors g
 [[Turn to page #.|chamber]]
 ===
 title: chamber
-tags: 
-colorID: 0
-position: 247,370
 ---
-whoops you died
+Your captors lead you through the giant steel dome to a set of doors. The doors automatically glide apart with a slight whooshing noise. The men nudge you and you walk through the door. You're in a corridor now, still made of steel. You walk down the hall, stopping at each fork in the path. One of the men grumbles "left" and "right" when he wants you to turn. Occasionally, a scientist walks by, with a clipboard, or a steel case that you're sure must contain something important or dangerous. Or both.
+Finally, the men guide you through another automatic door and into a medium-sized room. It looks like an operating room. A couple of scientists - who look a little too much like surgeons for your liking -- mill about the operating table, fiddling with various machines and tools. The men cut the rope around your wrists. They gesture to their guns to remind you that running would be futile. You gulp.
+One of the scientists (surgeons?) approaches you and takes off their surgical mask. "Hi there," says the scientist. "I'm Dr. Marshall. But you can call me Dr. Maria!"
+"Hello," you stammer, not sure how to respond.
+"Sorry about the whole, ehhh, kidnapping thing," says Maria, looking sheepish, and gesturing to the men with the guns. "It's just sort of a top-secret experiment-y laboratory thing going on down here! You know how it is." She turns to flicks a switch on a nearby machine, and turns back to you. "Right! So. Since you're here, I thought I'd make you a proposition."
+
+[[Turn to page #.|chamber2]]
+===
+title: chamber2
+---
+"We've been doing these, er, experiments. The Army gives us a lot of money, so we try to keep them happy, you know? Anyway, sorry," Dr. Maria pauses to flick another switch, and take a drink from a nearby glass of water. "Where was I? Right! So we've developed this super cool super strength serum! Problem is, we've been having trouble finding... volunteers." She stares at you, expectantly. You gulp again. This doesn't sound good at all. You turn to look at the men with guns, who glare at you. One of them shakes their head.
+"It's not a huge thing, I mean, you'll have to fight a few guys, go on secret missions to the Middle East, you know, army stuff! You'll be a real war hero, kiddo!" Dr. Maria puts a hand on your shoulder. "You want to be a hero, right?"
+Being a hero sounds pretty cool to you, but you're not sure you want to help the government invade and oppress other countries. Of course, if you  say no, you'll probably get riddled with bullets. This isn't exactly a great set of choices. But maybe there's something else you can do.
+
+[[If you submit to the injection, turn to page #.|chamber3]]
+[[If you've decided you've had enough of this business and use your magic ring, turn to page #.|ring1]]
+===
+title: chamber3
+---
+You can't see any way out of this. You nod sadly at Dr. Maria. She smiles warmly and guides you to the table. "Now, we're gonna need to strap you in here. Once the serum his your bloodstream, things are gonna get a little, uhhh, gruesome!" The doctor presses some buttons on the surrounding machine, and pulls a syringe seemingly out of nowhere. The syringe is attached by a hose to one of the machines. "You ready?" asks Dr. Maria. You nod, and she slams the needle into your arm.
+Your mind explodes into overdrive. You can barely think as your whole body shakes and begins to transform. You feel an intense dull pain as your muscles expand and grow. You start to feel angry. REALLY angry. Why are you being contained?? You try to struggle out of the restraints to no avail.
+As the pain subsides, you start to think clearly again. Dr. Maria is jumping up and down excitedly. "We did it! You're beautiful! Wait 'til the boys upstairs see you!"
+Sure enough, the boys upstairs are a fan. You look at yourself in a mirror and see an enormous monster looking back at you. Maybe this super soldier thing won't be so bad, you think.
+But once they put you out in the field, you realize there's no joy in your work. With a mere touch, you can make armies fall, communities crumble. The government sends you in to wreak havoc, and they swoop in to plunder the scorched land. You wish that you refused the injection and tried to escape, even if it meant certain death. That, at least, would have been honourable.
 END
 
 [[To restart and try again, turn to page #.|Start]]
+===
+title: ring1
+---
+You summon your magic ring. Instinctually, you press the power gem and the world around you goes white. You find yourself on your front porch next to a very confused Laney and Sally. "How did we get here?" asks Sally. You'd reply, but you're a bit confused yourself. When did you get a magic ring? How did you know how to use it? You sort of gesture to your ring, as if to explain their sudden appearance, but your friends just look around, still groggy and a little lost. 
+Your parents come out onto the porch and rush in to wrap you in a hug. "We're so proud of you, honey!" your mother says. "Your first occurrence!"
+"That means the first time you used magic, kiddo!" Your dad explains. Your parents take you and your friends inside as they talk about your magical bloodline. Apparently you come from a long line of wizards and witches. You can hardly believe it! Laney and Sally can hardly believe it either, but they're happy for you anyway. Your parents chatter excitedly about magic school and buying you spell books. What a strange end to the day's adventures! But you suspect this is only the beginning of another story...
+
+
+[[Turn to page #.|magicSchool]]
 ===
 title: run
 tags: 
@@ -623,8 +652,7 @@ END
 ===
 title: magicSchool
 ---
-You arrive at the docks, knees weak and palms sweaty. Since you were young you've had to keep this secret from your friends. That from the age of 5 your parents have been teaching you the magical arts.
-It doesn't really matter though. The regulars, as your parents called them, wouldn't believe you anyway. Without a word to them you left that morning to start a new chapter of your life.
+It's your first day at magic school, and you can hardly wait. It's been years since you first discovered your magic powers on that fateful school field trip to Fenway Park. You were too young to attend a magic school at the time, so you kept going to your school and pretending to be a "regular" (that's what your parents call them). You're going to miss your "regular" friends, Laney and Sally, now that you're going to a different school. But you're going to keep in touch.
 Your father shuts off the car engine and goes to the back to open the trunk to get your suitcase. You wonder why you bothered to drive here instead of using magic. Dad says it wasn't an experience you were ready for but a part of you doesn't believe him. 
 Maybe he was just used to his regular ways after living among them for so long. You and your mother step out of the car as your dad comes around with your suitcase.
 "You'll be taking the ferry from here," he says, pointing to the run down ship in the distance.
