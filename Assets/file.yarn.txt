@@ -71,18 +71,8 @@ It seems the bold bleacher was the last stop on the tour, and you watch as your 
 Sally and Laney are way ahead of you, and have already started bounding their way back down onto the grass. You chase after them, and soon enough the three of you are racing to see who can complete a lap of the diamond first. They got a head-start, but it's neck-and-neck in the last stretch, at which point it falls apart as all three of you fail to restrain yourselves from trying to dramatically slide into home base and completely undershooting.
 As you laugh and dust yourself off, Laney wanders over to the dugout and hops in. She returns wielding a metal bat and a mischievous grin, tossing Sally a couple leftover balls from who-knows-when.
 
-[[If you came here to play ball, turn to page #.|exploreball]]
+[[If you came here to play ball, turn to page #.|ball6]]
 [[If you didn't come here to play ball, turn to page #.|explore3]]
-===
-title: exploreball
-tags: 
-colorID: 0
-position: -336,-174
----
-ughhh i don't want to write more baseball stuff; maybe just link this back up to the other branch
-either that or bad end
-
-[[Turn to page #.|Start]]
 ===
 title: explore3
 tags: 
@@ -705,10 +695,46 @@ END
 title: teamlaney
 ---
 "Sorry Sally", you say, casting your new opponent a fiery over-the-shoulder glare, "but it looks like you're going down."
-You start walking over to Laney's team, and she reaches one hand up for a high five. You absolutely nail it with a thundering *<smallcaps>clap</smallcaps>* and then bring it back around for a perfectly synchronized follow-up down-low *<smallcaps>slap</smallcaps>*. The two teams separate to start picking positions and strategizing.
+You start walking over to Laney's team, and she reaches one hand up for a high five. You absolutely nail it with a thundering *<smallcaps>clap</smallcaps>* and then bring it back around for a perfectly synchronized follow-up down-low *<smallcaps>slap</smallcaps>*. Because Laney's team got the extra team member, you decide that Sally's team will get to bat at the top of the inning with your team pitching. The two teams separate to start picking positions and strategizing.
+You assume you'll be taking your usual spot in the field, but Laney's surprisingly good at keeping track of each player's strengths and comes up with an unorthodox team composition that leaves you on third base. You're out of your element, but you have faith in Laney's planning.
+Sally steps up to the plate for first swing (she isn't the best, but that doesn't stop her from a shot at stealing the show in a low-stakes game). Your pitcher starts with a couple fastballs and gets two strikes right off the bat. On the third throw, Sally connects and sends the ball flying up and to the right! She starts racing towards first base, but the ball lands squarely in the glove of the fielder: she's out!
+You don't end up seeing action until the third inning: the batter only clipped the ball and sent it rolling along the field in your direction, and they've got someone about to pass second and head straight for you. The pitcher's on their way to grab it, but if the runner passes you before you get the ball, you're toast: it might be better to run for it and try to pass to Laney between the bases so she can intercept.
 
+[[If you stand your ground, turn to page #.|holdthebase]]
+[[If you take matters into your own hands, turn to page #.|intercept]]
+===
+title: holdthebase
+---
+You decide it's too risky to abandon your base and get the ball yourself. Keeping one eye on the runner and one on the ball, you prepare for a pass. You repeat the required motion in your head over and over in the microseconds that pass by as the pitcher scrambles to get the ball in hand.
+They recover the ball just as the runner passes Laney; seeing that you're the only one left with a shot at tagging them out, the pitcher sends the ball directly towards you in a quick overhand pass.
+It's a bit higher than you expected: It's going to be close, but you think you can do this.
+Carefully lining up your glove, you manage to snag it out of the air just moments before the runner crosses the base. They're out!
+It was a good play, and you end up twiddling your thumbs for the rest of the inning as your team does as a great job on defence. Laney hasn't put you up to bat yet either, but you know that she's just saving the best for last; you've got a decent lead right now and there's no sense in wearing out your secret weapon this early into the game.
 
-[[If you hit a homerun, turn to page #.|homerun]]
+[[Turn to page #.|ball7]]
+===
+title: intercept
+---
+Making some quick calculations in your head, you realize there's no way the pitcher is going to be able to make it to the ball and pass it to you before the runner gets to third. They're just too slow! You're going to have to make a run for the ball yourself.
+You sprint towards the rolling sphere as fast as your legs will allow, and prepare yourself for the upcoming motion: you're only going to get one shot at this, and need to pick up the ball and get it to Laney in a split-second.
+You lower your arm and scoop up the ball, then use the momentum to spin yourself around 90° to the left. Your heart drops as you complete the turn: the runner has already passed Laney and is practically guaranteed to take third. Taking the only option left to you, you turn around again and send the ball back to home -- at least they're not going to get a point out of this botched play.
+That didn't really work out as expected, but luckily, you end up twiddling your thumbs for the rest of the inning as your team does as a great job on defence. Laney hasn't put you up to bat yet either, but you know that she's just saving the best for last; you've got a decent lead right now and there's no sense in wearing out your secret weapon this early into the game.
+
+[[Turn to page #.|ball7]]
+===
+title: ball7
+---
+bottom of the ninth etc
+[[hit a home run somehow, turn to page #.|homerun]]
+[[screw up and die, turn to page #.|deathbyball]]
+===
+title: deathbyball
+---
+A ball hits you or something
+It looks like you were wrong -- not only was this <i>not</i> an amazing day, it was your last!
+END
+
+[[To restart and try again, turn to page #.|Start]]
 ===
 title: homerun
 ---
