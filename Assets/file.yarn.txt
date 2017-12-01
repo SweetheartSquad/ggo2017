@@ -391,10 +391,29 @@ tags:
 colorID: 0
 position: -703,807
 ---
-FILL THIS IN LATER
+You've always been the straight-edge one in the group, and today is no exception. Laney looks towards you expectantly, but you simply walk away with the rest of the class as they start moving on to the next section of the tour. At first, Laney lags behind a bit, clearly torn between the promise of adventure and your lack of cooperation, but she eventually re-joins you and Sally as you make your way onto the field.
+Amy continues to make the rounds, pointing out all the different landmarks and the many idiosyncrasies of Fenway's architecture.
+In the middle of one of her factoids, one of the other kids shouts out "When are we going to get to play ball!?"
+With a sharp sideways glare at the eager beaver, Miss Inglewood reassures your class that you'll all have a chance to play after lunch. Her answer is met with a few mumbles and grumbles, but no one else interrupts for the rest of the morning. Soon, you're all lining up at the concession stands for hot-dogs and soda pops. Plopping yourself down with Laney and Sally as usual, you're worried Laney might be a little peeved for getting shut down earlier. Turns out you have nothing to worry about though, and the three of you are soon chatting like usual as you chomp down in preparation for the coming ball game.
 
-[[To restart and try again, turn to page #.|Start]]
+[[Turn to page #.|ball6]]
+===
+title: ball6
+tags: 
+colorID: 0
+position: -803,807
+---
+The sun is high in the cloudless sky as Miss Inglewood leads the class back out onto the field for the main event. The three of you are way ahead of the group and already geared up, and your teacher is far too busy dealing with a rowdy crowd of excited children to notice a few of them getting a bit ahead of themselves. Sally and Laney quickly declare themselves team captains and begin recruiting classmates one by one as they make it out to the diamond.
+They take turns, alternating between picking the best players and their best friends.
+"I pick... Jane!"
+"Terry, get over here!"
+"Um... Ashley."
+"Jul- no, Charlie!"
+It goes on and on like this, and you can't help but feel they're forgetting something. Soon enough, all the other kids have been spoken for, but you still don't have a team!
+"C'mon, let's go!" says Sally as she grabs your hand and starts to lead you off. "Hey", protests a confused Laney, "I thought you were on my side!"
+It looks like both of them just assumed you were already on their team from the get-go!
 
+[[Turn to page #.|ball6]]
 ===
 title: spy2death
 tags: 
