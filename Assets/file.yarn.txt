@@ -412,11 +412,11 @@ Amy the tour guide leads your class to the home team's dugout. You all help each
 
 You lean over to say something to Laney, but she isn't next to you anymore. Uh oh! Did she run off to explore without you? As you turn around to look for Laney, you bump into her. "Ouch!" hisses Laney.
 
-"Sorry!" you whisper back. Something moves in the corner of you eye and you look, just to see Mrs. Inglewood slip through an unlabelled door. Very strange. Shouldn't she be supervising the class? Laney nudges you.
+"Sorry!" you whisper back. Something moves in the corner of you eye and you look, just to see Miss Inglewood slip through an unlabelled door. Very strange. Shouldn't she be supervising the class? Laney nudges you.
 
-"Now's our chance!" she whispers. You do kind of want to see where Mrs. Inglewood is going. But you hate to break the rules, even if your teacher is behaving strangely.
+"Now's our chance!" she whispers. You do kind of want to see where Miss Inglewood is going. But you hate to break the rules, even if your teacher is behaving strangely.
 
-[[If you want to follow Mrs. Inglewood through the mysterious door, turn to page #.|spy1]]
+[[If you want to follow Miss Inglewood through the mysterious door, turn to page #.|spy1]]
 [[If you still want to stay with the group, turn to page #.|ball5]]
 ===
 title: spy1
@@ -428,7 +428,7 @@ You grab Laney and Sally's hands and lead them to the unlabelled door. You glanc
 
 The room appears to be a storage space. There are rows of metal shelves, covered in baseball gear and boxes. In the far corner there is a large sink and some cleaning supplies. The three of you split up and being to explore. 
 
-After a few minutes, Sally calls out to you. She's standing by the sink. You head over. "There are footprints here," says Sally. "And I think this is a scrap of Mrs. Inglewood's dress!" Laney jumps up and down, excitedly.
+After a few minutes, Sally calls out to you. She's standing by the sink. You head over. "There are footprints here," says Sally. "And I think this is a scrap of Miss Inglewood's dress!" Laney jumps up and down, excitedly.
 
 "A secret passage!" she exclaims. You'd definitely agree with that. But how are you going to open it?
 
@@ -754,7 +754,7 @@ tags:
 colorID: 0
 position: -332,643
 ---
-You turn the right knob. The sink shudders, then goes quiet. Suddenly, the floor opens up beneath you. You, Sally, and Laney fall into a deep pit. You try to climb the walls, but they are very smooth. Mrs. Inglewood leans over the edge of the pit with a flashlight.
+You turn the right knob. The sink shudders, then goes quiet. Suddenly, the floor opens up beneath you. You, Sally, and Laney fall into a deep pit. You try to climb the walls, but they are very smooth. Miss Inglewood leans over the edge of the pit with a flashlight.
 
 "This is what happens when you don't stick with the group, girls!" And with that, she disappears. You call out for help, but your teacher doesn't come back. There doesn't seem to be anyone else around to hear you.
 END
