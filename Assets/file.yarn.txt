@@ -113,7 +113,7 @@ colorID: 0
 position: 577,-683
 ---
 The stairs travel straight down for a few meters through exposed rock. At first it looks like incredibly shoddy workmanship -- hastily hewn stone meant to serve no purpose other than locomotion, but as you walk further down, the rough markings and cuts start to give way to flatter, more refined surfaces. The steps begin to widen, and then transition into a lazy spiral as more and more evidence of artistry appears on the walls that pass you by: a noticeable trim along edges, clear markers every dozen steps, purely aesthetic patterning that must have taken someone ages to carve...
-Soon enough, you find yourself slowing to admire details here and there. To think; all this and more could have gone unnoticed by so many for so long! You fight back a slight twinge of guilt as you think of your classmates above, eating hotdogs and playing ball as you explore hidden depths on your own. You remind yourself that they're having a good time too, and of course that yours is an experience that only a select few could appreciate.
+Soon enough, you find yourself slowing to admire details here and there. To think; all this and more could have gone unnoticed by so many for so long! You fight back a slight twinge of guilt as you think of your classmates above, eating hot-dogs and playing ball as you explore hidden depths on your own. You remind yourself that they're having a good time too, and of course that yours is an experience that only a select few could appreciate.
 Distracted momentarily by your thoughts, you stumble awkwardly as your foot plants down sooner than expected: you've reached the bottom of the stairwell! Recovering your balance, you survey the area. To your left, the floor levels out into a long, narrow tunnel that stretches as far as the beam from your flashlight will reach. To your right lies a small alcove engraved in ornate detail. It may be a good opportunity to try to learn more about these mysterious passageways. On the other hand, you are on a bit of a tight schedule -- maybe you should just keep moving.
 
 [[If you examine the alcove to the right, turn to page #.|alcove]]
@@ -211,8 +211,8 @@ position: 243,105
 "You won't get away with this!" you exclaim, but the men pay your complaints no mind as one grabs your wrists and ties them behind your back. A second later you feel a shove that sends you stumbling a few feet forward, and then another just as you regain your balance. Quickly deducing the intent behind this roughness, you start walking forward blindly.
 Every now and then as you make your way in darkness, another sudden push redirects you. It's far from gentle, but presumably it's better than walking face-first into a stalagmite or some other unseen hazard.
 After traveling like this for what feels like hours, the relative silence is replaced with the increasingly loud sound of machinery, and then voices (though you can't make out what they're saying). Suddenly your vision is restored as the bag is ripped off your head, and you find you are being led into a vast underground chamber nothing like the tunnels you remember entering.
-The rock walls have given way to reinforced steel plates, stretching into a massive dome above you. Bright fluorescent lights and blinking LEDs sting your eyes as you survey the surroundings: advanced technological contraptions litter the floor space, and a number of men and women in white labcoats bustle around hurriedly from monitor to monitor. The scale of this operation is enormous; who could've guessed that the ball diamond was just a front for a no-holds-barred secret subterranean base!
-Noticing a delay in your steps as you recover and take it all in, your captors give you yet another brusque push and continue the forced march towards the center of the metallic hemi-sphere. You consider your options and come to the conclusion that right now, you don't really have any—other than to play along and continue following your captors' directions. You don't know what they're planning to do with you, but you have a feeling you're about to find out.
+The rock walls have given way to reinforced steel plates, stretching into a massive dome above you. Bright fluorescent lights and blinking LEDs sting your eyes as you survey the surroundings: advanced technological contraptions litter the floor space, and a number of men and women in white lab-coats bustle around hurriedly from monitor to monitor. The scale of this operation is enormous; who could've guessed that the ball diamond was just a front for a no-holds-barred secret subterranean base!
+Noticing a delay in your steps as you recover and take it all in, your captors give you yet another brusque push and continue the forced march towards the center of the metallic hemisphere. You consider your options and come to the conclusion that right now, you don't really have any—other than to play along and continue following your captors' directions. You don't know what they're planning to do with you, but you have a feeling you're about to find out.
 
 [[Turn to page #.|chamber]]
 ===
@@ -258,7 +258,7 @@ colorID: 0
 position: 835,179
 ---
 Deciding that you'd rather risk a potential drowning over almost certain bullet wounds, you plunge yourself through the entrance of the underwater channel and immediately find yourself tumbling faster and faster through a well-worn tube of stone. You notice that the blue light from the lake has been steadily fading, and that you're quickly nearing pitch black darkness now. Whatever was causing the glow must have been isolated to that central repository.
-The channel twists and turns as it goes on, occasionally slamming you into the sides and bouncing you off corners; you're going to have more than a couple bruises if this keeps up. You try to ignore the pain and focus on holding your breath. Your personal record is just over 2 minutes, but that was in your friend Sally's backyard swimming pool, not careening your way through some sort of crazy aquifer waterslide!
+The channel twists and turns as it goes on, occasionally slamming you into the sides and bouncing you off corners; you're going to have more than a couple bruises if this keeps up. You try to ignore the pain and focus on holding your breath. Your personal record is just over 2 minutes, but that was in your friend Sally's backyard swimming pool, not careening your way through some sort of crazy aquifer water-slide!
 The current carries you deeper and deeper underground with no signs of letting up, and just when you think you're at your lungs' limit, you feel a shock of cold air hit your left foot. Heart thumping and struggling to get your bearings after having been tossed and turned for what felt like ages, you realize that the channel is no longer filled to the top with water and there are small pockets of air whizzing by above you! It takes a couple agonizing tries to time it properly, but you manage to get another breath of air which carries you to the end of the channel, where it deposits you in a basin much like the larger lake somewhere above and behind you.
 
 [[Turn to page #.|current2]]
@@ -312,9 +312,9 @@ tags:
 colorID: 0
 position: -700,98
 ---
-It’s the day of the 2nd grade field trip, and you can’t wait. You and your friends Laney and Sally have been waiting for this all year. This year, you’re going to Fenway Park to get a tour!
+It's the day of the 2nd grade field trip, and you can't wait. You and your friends Laney and Sally have been waiting for this all year. This year, you're going to Fenway Park to get a tour!
 
-You, Laney, and Sally are all on the local girl’s little league team. Laney is the shortstop, Sally is the pitcher, and you’re the star hitter. You’re also the left outfielder, but you’re not very good at catching. Or throwing. But you sure can hit the ball. The three of you are looking forward to seeing all the amazing things the park has to offer. It's been through a lot since it opened in 1912, but it looks as good as ever. You look forward to seeing the Green Monster, the giant green wall of concrete and plastic along the left field. Your dad told you that there are dents in the wall from baseballs, and you want to see for yourself.
+You, Laney, and Sally are all on the local girl's little league team. Laney is the shortstop, Sally is the pitcher, and you're the star hitter. You're also the left outfielder, but you're not very good at catching. Or throwing. But you sure can hit the ball. The three of you are looking forward to seeing all the amazing things the park has to offer. It's been through a lot since it opened in 1912, but it looks as good as ever. You look forward to seeing the Green Monster, the giant green wall of concrete and plastic along the left field. Your dad told you that there are dents in the wall from baseballs, and you want to see for yourself.
 
 Miss Inglewood talks to the man at the front gate. He says something to her, and she leads your class through the turnstiles and into a set of tunnels. Your group keeps walking and eventually makes it out onto the field itself. The park looks so much bigger from the inside. The grass smells freshly cut and the sky above is bright and blue. The Green Monster looms in your peripheral vision. Laney nudges you and points to the famous Lone Red Seat in the stands. You can feel it -- this is going to be an amazing day.
 
@@ -329,9 +329,9 @@ position: -446,98
 
 Miss Inglewood leaves to go get the tour guide. The other kids mull about the field, talking or playing games. You hang around Laney and Sally.
 
-"We should go exploring while Miss Inglewood’s gone," says Laney. She’s the adventurous one of your group. Sally agrees. You think it would be pretty amazing to explore the park unsupervised, but you also think that you should stay with the group.
+"We should go exploring while Miss Inglewood's gone," says Laney. She's the adventurous one of your group. Sally agrees. You think it would be pretty amazing to explore the park unsupervised, but you also think that you should stay with the group.
 
-"Come on," says Sally. "Don’t be a wuss."
+"Come on," says Sally. "Don't be a wuss."
 
 [[If you go exploring with your friends, turn to page #.|explore1]]
 [[If you convince your friends to stay with the group, turn to page #.|ball3]]
@@ -358,7 +358,7 @@ tags:
 colorID: 0
 position: -702,572
 ---
-Amy the tour guide leads your class to the home team's dugout. You all help each other climb into the deep recess. After you were all inside the dugout, Amy began her talk. "Fenway Park was built in 1911 under the guidance of John Irving Taylor," she said. "Mr. Taylor was the owner of the Boston Red Sox at the time, and he wanted a baseball stadium for his team." Amy goes through a door and leads you deeper into the stadium. The class crowds excitely into a small-ish stone hallway.
+Amy the tour guide leads your class to the home team's dugout. You all help each other climb into the deep recess. After you were all inside the dugout, Amy began her talk. "Fenway Park was built in 1911 under the guidance of John Irving Taylor," she said. "Mr. Taylor was the owner of the Boston Red Sox at the time, and he wanted a baseball stadium for his team." Amy goes through a door and leads you deeper into the stadium. The class crowds excitedly into a small-ish stone hallway.
 
 You lean over to say something to Laney, but she isn't next to you anymore. Uh oh! Did she run off to explore without you? As you turn around to look for Laney, you bump into her. "Ouch!" hisses Laney.
 
@@ -374,7 +374,7 @@ tags:
 colorID: 0
 position: -456,321
 ---
-You grab Laney and Sally's hands and lead them to the unlabelled door. You glance back at Amy the tour guide, but she seems to be distracted by her tour guide schpiel. You take a deep breath and open the door. The room beyond is dim. You don't see any side of your teacher, though, so you head inside.
+You grab Laney and Sally's hands and lead them to the unlabelled door. You glance back at Amy the tour guide, but she seems to be distracted by her tour guide spiel. You take a deep breath and open the door. The room beyond is dim. You don't see any side of your teacher, though, so you head inside.
 
 The room appears to be a storage space. There are rows of metal shelves, covered in baseball gear and boxes. In the far corner there is a large sink and some cleaning supplies. The three of you split up and being to explore. 
 
@@ -514,9 +514,9 @@ As you sprint you see the deck hands begin to untie the knots holding the ferry 
 ===
 title: halved
 ---
-You open your eyes laying on your back. Students and crew members surround you, their eyes wide. "I did it," you think to yourself. You try to get up but your exhaustion prevents you. You close your eyes once more. Suddenly a young boy beside you screams out. You open your eyes to look at his face, morphed hidiously by terror. Beside him one of the crew members vomits.
+You open your eyes laying on your back. Students and crew members surround you, their eyes wide. "I did it," you think to yourself. You try to get up but your exhaustion prevents you. You close your eyes once more. Suddenly a young boy beside you screams out. You open your eyes to look at his face, morphed hideously by terror. Beside him one of the crew members vomits.
 "Someone get the nurse! Quick!" shouts a voice you cannot see.
-You wonder what could be going on as you feel a liquid start pooling around your ear. Using what remains of your strenght you try to look around.
+You wonder what could be going on as you feel a liquid start pooling around your ear. Using what remains of your strength you try to look around.
 You see blood. A lot of blood.
 It turns out you were as good at magic as you thought, but less than you hoped, and that your top half is no long on top of your bottom half.
 The remaining students are too mortified by the sight of you to continue with the school year. The magical community takes a huge hit due to a generation of uneducated individuals.
@@ -525,7 +525,7 @@ The remaining students are too mortified by the sight of you to continue with th
 ===
 title: exploreDock
 ---
-The salt in the air fills your nostrils as you begin to walk around the docks. You're reminded of the summer days you spent at the beach with your family. To your right you see a boat of fishermen set off in the early morning. The seaguls hitching a ride squack in excitement. You feel the breeze of the ocean as it gently blows across your face. It fills you with determination.
+The salt in the air fills your nostrils as you begin to walk around the docks. You're reminded of the summer days you spent at the beach with your family. To your right you see a boat of fishermen set off in the early morning. The seagulls hitching a ride squack in excitement. You feel the breeze of the ocean as it gently blows across your face. It fills you with determination.
 
 Suddenly the sound of the ships horn cracks through the serene setting! Time to begin your journey.
 
@@ -534,12 +534,12 @@ Suddenly the sound of the ships horn cracks through the serene setting! Time to 
 title: toStudents_onDock
 ---
 As you get closer to the boat you see the rest of the students begin to line up and prepare boarding the vessel. At the front is a tall woman with a stern face, staring in your direction. You decide to pick up the pace and fall in to the back of the line just as it begins moving. Looking around at all the faces of your fellow students, you realize how many other irregulars there were. Until today your parents were the only magic users you knew but now they were everywhere. You hope someone won't accidentally sneeze and sink the ship on your journey.
-"Hurry now! Quit your daydreaming!" the woman snaps. "We must leave on time. The ferry hasn't had a late departure in over 500 years and we won't be breaking that tradtion today over the likes of you!"
+"Hurry now! Quit your daydreaming!" the woman snaps. "We must leave on time. The ferry hasn't had a late departure in over 500 years and we won't be breaking that tradition today over the likes of you!"
 Nervous, you drag your suitcase up the ramp, wondering how a 500 year old streak exist in a country that as far as you know was a few centuries younger than that.
 You make it to the deck. The other students have already seated, and seemingly split into cliques.
 "That was quick," you mutter to yourself.
 Before you, you see a shy group of individuals quietly talking amongst themselves and trying to not be a bother to anyone.
-To your right you spot a rowdier group of kids hangy by the railing, laughing and screaming in a chaotic fashion.
+To your right you spot a rowdier group of kids hanging by the railing, laughing and screaming in a chaotic fashion.
 
 [[If you want to go sit with them dang nerds, turn to page #.|sitWithNerds]]
 [[If you want to go talk to the rowdy bums, turn to page #.|talkWithAssholes]]
