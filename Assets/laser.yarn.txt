@@ -38,6 +38,8 @@ Eyes blurred you look back down the tunnel and see Ms. Inglewood pointing some s
 Another flash of light fills the tunnels. You hear nothing.
 
 THE END
+
+[[To restart and try again, turn to page #.|Start]]
 ===
 title: tunnel_StayPut
 ---
@@ -65,6 +67,8 @@ After finishing her monologue, Ms. Inglewood reaches to the large lever beside h
 The last thing you see is the psychotic smile on Ms. Inglewoods face.
 
 The END
+
+[[To restart and try again, turn to page #.|Start]]
 ===
 title: tunnelSafe
 ---
@@ -115,6 +119,8 @@ Laney runs back to Sally to try and help her. You look up at the ceiling just in
 The three of you are never seen again.
 
 THE END
+
+[[To restart and try again, turn to page #.|Start]]
 ===
 title: tunnelKeepGoing
 ---
@@ -139,6 +145,8 @@ Opening the door you find a giant room with no ceiling, and a giant contraption 
 It's the last thing you ever see.
 
 THE END
+
+[[To restart and try again, turn to page #.|Start]]
 ===
 title: keepGoing_solo
 ---
@@ -151,6 +159,8 @@ Opening the door you find a giant room with no ceiling, and a giant contraption 
 It's the last thing you ever see.
 
 THE END
+
+[[To restart and try again, turn to page #.|Start]]
 ===
 
 
