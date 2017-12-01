@@ -636,7 +636,7 @@ It goes on and on like this, and you can't help but feel they're forgetting some
 It looks like both of them just assumed you were already on their team from the get-go! They're probably not going to be able to work this one out amongst themselves: it's up to you to decide who you want to carry to victory and who will be crushed by the might of your combined forces.
 
 [[If you join Sally's team, turn to page #.|teamsally]]
-[[If you join Laney's team, turn to page #.|ball6]]
+[[If you join Laney's team, turn to page #.|teamlaney]]
 [[If you decide to sit this one out, turn to page #.|sidelines]]
 ===
 title: sidelines
@@ -667,6 +667,27 @@ A woman rushes into the room and warns you to take it easy: she explains to you 
 Your friends and family all stop by with well-wishes over the next couple days. At one point, Laney's parents drop by. It's more than a bit awkward for you, but they apologize profusely for her behaviour and let you know that not only does she feel absolutely awful about what happened, but that she whole-heartedly agreed with the school's recommendation to seek counselling and have her attend an anger management class during her suspension.
 You're not sure how you feel about this; on the one hand, you want to be supportive of your friend who seems to be going through a rough time, but on the other hand, she did clobber your noggin over a silly game.
 In any case, you'll have a couple more days to process your feelings while the hospital keeps you under close watch during your recovery period.
+END
+
+[[To restart and try again, turn to page #.|Start]]
+===
+title: teamlaney
+---
+"Sorry Sally", you say, casting your new opponent a fiery over-the-shoulder glare, "but it looks like you're going down."
+You start walking over to Laney's team, and she reaches one hand up for a high five. You absolutely nail it with a thundering *<smallcaps>clap</smallcaps>* and then bring it back around for a perfectly synchronized follow-up down-low *<smallcaps>slap</smallcaps>*. The two teams separate to start picking positions and strategizing.
+
+
+[[If you hit a homerun, turn to page #.|homerun]]
+===
+title: homerun
+---
+<align=center><b>*<smallcaps>crack</smallcaps>*</b></align>
+It's a hit! You drop the bat and break into a sprint, when suddenly your whole team starts cheering wildly and running towards you:
+<align=center>"WAY TO GO!"
+"YOU DID IT!!"
+<b>"IT'S A HOME RUN!!!"</b></align>
+Not only did you hit the ball, you hit it straight out of the park! You slow your run to a jog, and are swarmed by your team-mates all joining in for a huge group hug. Unable to hold back their amazement over the incredible victory, the other team starts to join in on the celebration. Laney and Sally hoist you up on their shoulders and start to parade you around the diamond for your final lap while everyone else applauds.
+You were right -- today was an amazing day!
 END
 
 [[To restart and try again, turn to page #.|Start]]
