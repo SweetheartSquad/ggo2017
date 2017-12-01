@@ -737,10 +737,10 @@ To your right you spot a rowdier group of kids hanging by the railing, laughing 
 ===
 title: sitWithNerds
 ---
-You decide you've had enough excitement for the day and decide to sit with the shy individuals.
-They all seem nice enough. Some of them seem to be a little anxious as well so at least you have that incommon.
-Over the school year you get more and more comfortable hanging around this group and find that you've found some real friends.
-Throughout your years at school you face some tough challenges but manage to pull through with each others support.
+You decide you've had enough excitement for the day and decide to sit with the shy individuals. They all seem nice enough. Some of them seem to be a little anxious as well so at least you have that incommon.
+
+Over the school year you get more and more comfortable hanging around this group and find that you've found some real friends. Throughout your remaining years at school, you face some tough challenges but manage to pull through with each others support.
+
 How nice for you. You've now graduated an accomplished magic user and are ready to start a new life!
 
 Congratulations!
@@ -750,9 +750,13 @@ Congratulations!
 title: talkWithAssholes
 ---
 You walk up to the rowdy bunch of kids on the boat. Being shy you're not entirely sure what to say, and they quickly take notice.
+
 "What's wrong huh? Too dumb to speak!" one of them yells, causing an uproar of laughter among them.
+
 You try and laugh with them but it just doesn't feel the same. Over the years you try your best to fit in but nothing seems to work out how you imagined.
+
 Their peer pressure has caused you to do many questionable things throughout your years at school, some leading to serious consequences.
+
 After one night of playing pinklebluks one of the guys dares you to do a handstand on your flying chair. Unfortunately despite your best efforts, you trained in magic, not acrobatics. In you attempt you slip and hit your head on the chair, falling unconcious. Afraid of getting in trouble, no one takes you to the Nurse's quarters.
 
 Hope it was worth it.
