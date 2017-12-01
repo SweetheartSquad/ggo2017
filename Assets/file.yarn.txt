@@ -46,7 +46,7 @@ position: -528,-678
 You're no wuss, and you make sure Sally knows as much as the three of you take advantage of Miss Inglewood's absence to break off from the group waiting in the in-field and start climbing your way through the bleachers. No offense to Miss I.'s ability to plan a school trip, but you're fairly certain you don't need a boring old tour guide to know how to have fun at a baseball diamond!
 The three of you take turns sitting in the famous red seat marking the longest home run ever hit at the park and watch as your teacher and classmates follow a woman in a white uniform around the field in the distance. They stop a few times along the way, presumably to listen to the tour guide's spiel.
 Laney turns to you and Sally and whispers "Hey, do you think they'll be able to see us up here?"
-Your classmates aren't paying any attention to the bleachers at the moment, but surely the tour's going to at least mention the Lone Red Seat (seriously -- what tour wouldn't?). It is pretty far out though -- almost 500 feet -- so if you take it easy they probably won't even notice you. You're wearing red today anyways; you'll blend right in.
+Your classmates aren't paying any attention to the bleachers at the moment, but surely the tour's going to at least mention the Lone Red Seat (seriously -- what tour wouldn't?). It is pretty far out though -- almost 500 feet -- so if you take it easy they probably won't even notice you. You're wearing a Red Sox shirt today anyways; you'll blend right in.
 
 [[If you say "Yes, we should hide", turn to page #.|explore2]]
 [[If you say "No, we're too far away", turn to page #.|caught_red_seated_ha_get_it]]
@@ -56,7 +56,7 @@ tags:
 colorID: 0
 position: -536,-417
 ---
-That was dumb, you got caught
+That was dumb, you got caught.
 END
 
 [[To restart and try again, turn to page #.|Start]]
@@ -200,7 +200,7 @@ position: 243,105
 ---
 "You won't get away with this!" you exclaim, but the men pay your complaints no mind as one grabs your wrists and ties them behind your back. A second later you feel a shove that sends you stumbling a few feet forward, and then another just as you regain your balance. Quickly deducing the intent behind this roughness, you start walking forward blindly.
 Every now and then as you make your way in darkness, another sudden push redirects you. It's far from gentle, but presumably it's better than walking face-first into a stalagmite or some other unseen hazard.
-After traveling like this for what feels like hours, the relative silence is replaced with the increasingly loud sound of machinery, and then voices (though you can't make out what they're saying). Suddenly your vision is restored as the bag is ripped off your head, and you find you are being led into a vast underground chamber nothing like the tunnels you remember entering.
+After travelling like this for what feels like hours, the relative silence is replaced with the increasingly loud sound of machinery, and then voices (though you can't make out what they're saying). Suddenly your vision is restored as the bag is ripped off your head, and you find you are being led into a vast underground chamber nothing like the tunnels you remember entering.
 The rock walls have given way to reinforced steel plates, stretching into a massive dome above you. Bright fluorescent lights and blinking LEDs sting your eyes as you survey the surroundings: advanced technological contraptions litter the floor space, and a number of men and women in white lab-coats bustle around hurriedly from monitor to monitor. The scale of this operation is enormous; who could've guessed that the ball diamond was just a front for a no-holds-barred secret subterranean base!
 Noticing a delay in your steps as you recover and take it all in, your captors give you yet another brusque push and continue the forced march towards the center of the metallic hemisphere. You consider your options and come to the conclusion that right now, you don't really have any—other than to play along and continue following your captors' directions. You don't know what they're planning to do with you, but you have a feeling you're about to find out.
 
@@ -220,7 +220,7 @@ title: chamber2
 ---
 "We've been doing these, er, experiments. The Army gives us a lot of money, so we try to keep them happy, you know? Anyway, sorry," Dr. Maria pauses to flick another switch, and take a drink from a nearby glass of water. "Where was I? Right! So we've developed this super cool super strength serum! Problem is, we've been having trouble finding... volunteers." She stares at you, expectantly. You gulp again. This doesn't sound good at all. You turn to look at the men with guns, who glare at you. One of them shakes their head.
 "It's not a huge thing, I mean, you'll have to fight a few guys, go on secret missions to the Middle East, you know, army stuff! You'll be a real war hero, kiddo!" Dr. Maria puts a hand on your shoulder. "You want to be a hero, right?"
-Being a hero sounds pretty cool to you, but you're not sure you want to help the government invade and oppress other countries. Of course, if you  say no, you'll probably get riddled with bullets. This isn't exactly a great set of choices. But maybe there's something else you can do.
+Being a hero sounds pretty cool to you, but you're not sure you want to help the government invade and oppress other countries. Of course, if you say no, you'll probably get riddled with bullets. This isn't exactly a great set of choices. But maybe there's something else you can do.
 
 [[If you submit to the injection, turn to page #.|chamber3]]
 [[If you've decided you've had enough of this business and use your magic ring, turn to page #.|ring1]]
@@ -238,7 +238,7 @@ END
 ===
 title: ring1
 ---
-You summon your magic ring. Instinctually, you press the power gem and the world around you goes white. You find yourself on your front porch next to a very confused Laney and Sally. "How did we get here?" asks Sally. You'd reply, but you're a bit confused yourself. When did you get a magic ring? How did you know how to use it? You sort of gesture to your ring, as if to explain their sudden appearance, but your friends just look around, still groggy and a little lost. 
+You summon your magic ring. Instinctively, you press the power gem and the world around you goes white. You find yourself on your front porch next to a very confused Laney and Sally. "How did we get here?" asks Sally. You'd reply, but you're a bit confused yourself. When did you get a magic ring? How did you know how to use it? You sort of gesture to your ring, as if to explain their sudden appearance, but your friends just look around, still groggy and a little lost. 
 Your parents come out onto the porch and rush in to wrap you in a hug. "We're so proud of you, honey!" your mother says. "Your first occurrence!"
 "That means the first time you used magic, kiddo!" Your dad explains. Your parents take you and your friends inside as they talk about your magical bloodline. Apparently you come from a long line of wizards and witches. You can hardly believe it! Laney and Sally can hardly believe it either, but they're happy for you anyway. Your parents chatter excitedly about magic school and buying you spell books. What a strange end to the day's adventures! But you suspect this is only the beginning of another story...
 
@@ -340,7 +340,7 @@ title: ghostie2
 ---
 "Baseball isn't dead, sir," you tell him. "Why, I play little league two times a week with my best friends, Laney and Sally! Our team is really good, we might even make it to finals this year. And my family goes to see every Red Sox game. Everyone loves you, Mr. Baseball, sir!" The ghost goes quiet and seems to think about this.
 "Could it be?" he says quietly. "Could it be that I'm... still alive?" His body begins to glow with a strange light. Translucent baseball gloves appear and begin to rotate around the ghost as he slowly lifts off the ground.
-"You should go up to the stadium," you continue. "All my classmates are playing a game of baseball right now." The ghost chuckles at this , and glows even brighter.
+"You should go up to the stadium," you continue. "All my classmates are playing a game of baseball right now." The ghost chuckles at this, and glows even brighter.
 "Maybe you're right, kid," he says. "Maybe I haven't passed my prime after all!" Ghostly baseball bats appear around him now, twirling counter to the baseball gloves. The apparitions seem to make the ghost shine brighter and brighter. Soon, he's ascended to the ceiling. He looks down at you. "Thank you for believing in me," he says, and vanishes.
 A door sparkles into existence in the cave wall in front of you. You open it, and find a staircase leading back up to the stadium. You find your class, out on the field, still playing that good ol' game of baseball. Smiling, you pick up a glove and join them.
 END
@@ -496,9 +496,9 @@ title: leaveTunnel
 ---
 This is crazy! Ms. Inglewood is some kind of crazy mad scientist with a ray gun! What are you supposed to do! You do the sensible thing and turn around and scramble out of the tunnels and back to the dugout. 
 
-Frantically you try to look for someone to tell, preferably an adult. Then you see out on the field, Amy, still leading the class giving her schpiel. She'll have to do. Almost out of breath, you run towards her screaming. Her and the rest of the class turn to you, looking very confused. As you make it past first base you suddenly hear a loud CHUNK sound. CHUNK.
+Frantically you try to look for someone to tell, preferably an adult. Then you see out on the field, Amy, still leading the class giving her spiel. She'll have to do. Almost out of breath, you run towards her screaming. Her and the rest of the class turn to you, looking very confused. As you make it past first base you suddenly hear a loud *<smallcaps>chunk</smallcaps>* sound. *<smallcaps>chunk</smallcaps>*.
 
-CHUNK CHUNK CHUNK.
+*<smallcaps>chunk</smallcaps>* *<smallcaps>chunk</smallcaps>* *<smallcaps>chunk</smallcaps>*.
 
 The sound speeds up in frequency, almost like large mechanical gears turning. Underfoot you feel the ground begin to shake. In front of you a crack appears in the turf, quickly growing until a huge chasm is between you and the rest of the school group.
 
@@ -521,7 +521,6 @@ title: monologueContIngle
 After finishing her monologue, Ms. Inglewood reaches to the large lever beside her, and pulls it. A terrifying noise fills the air and electricity begins to spark from the end of the laser.
 
 The last thing you see is the psychotic smile on Ms. Inglewood's face.
-
 END
 
 [[To restart and try again, turn to page #.|Start]]
@@ -726,7 +725,7 @@ title: ball7
 ---
 Sally's team had fallen behind in the first few innings, but they pull off an almost miraculous grand slam in the top of the 8th, leaving Laney and you to play catch-up. You get a couple more runners through on your turn at the bat and take the lead again, but only by a single point. Sally's team manages to close that gap on their next turn and tie up the game: looks like you're in it for the long haul.
 And here you are, tied game, bottom of the ninth, bases loaded. All you need is a single point to win the game here and now, but you're already one batter down with a second coming close behind: Laney's taken it upon herself to bat second, and only has one strike left.
-Sally's been pitching her A-game all day, and now's no exception: a single tight curveball later and Laney is out for the count.
+Sally's been pitching her A-game all day, and now's no exception: a single tight curve ball later and Laney is out for the count.
 "It's all up to you now", she says, handing you the bat and taking a seat.
 Taking your position, you get ready for the ball coming your way. It's like something out of a cheesy sports movie, except you're not really sure which of you is the underdog with the heart of gold in this situation. You've been playing with Sally long enough to know that she's going to try the same move on you that she did on Laney, but that doesn't mean you know you can hit it.
 
@@ -911,7 +910,7 @@ You try and laugh with them but it just doesn't feel the same. Over the years yo
 
 Their peer pressure has caused you to do many questionable things throughout your years at school, some leading to serious consequences.
 
-After one night of playing pinklebluks one of the guys dares you to do a handstand on your flying chair. Unfortunately despite your best efforts, you trained in magic, not acrobatics. In you attempt you slip and hit your head on the chair, falling unconcious. Afraid of getting in trouble, no one takes you to the Nurse's quarters.
+After one night of playing pinklebluks one of the guys dares you to do a handstand on your flying chair. Unfortunately despite your best efforts, you trained in magic, not acrobatics. In you attempt you slip and hit your head on the chair, falling unconscious. Afraid of getting in trouble, no one takes you to the Nurse's quarters.
 
 Hope it was worth it.
 END
