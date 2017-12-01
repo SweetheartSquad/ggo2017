@@ -36,7 +36,6 @@ position: 122,-1396
 <nobr></nobr>Remember—you cannot go back! Think carefully before you make a move! One mistake can be your last... or it <i>may</i> lead you to fame and fortune!
 
 [[To start the adventure, turn to page #.|ball1]]
-[[Go to magic school instead, turn to page #.|magicSchool]]
 ===
 title: explore1
 tags: 
