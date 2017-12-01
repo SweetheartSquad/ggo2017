@@ -35,7 +35,7 @@ public class CustomDialogueRunner : Yarn.Unity.DialogueRunner
 		int curPage = 5; // only generate 5 and up
 		for(int i = 0; i < m.Count; ++i) {
 			numbers[i] = curPage;
-			curPage += Random.Range(3, 16);
+			curPage += Random.Range(2, 4);
 			curPage += 1 - curPage % 2;
 		}
 
