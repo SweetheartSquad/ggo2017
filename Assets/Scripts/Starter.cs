@@ -9,10 +9,5 @@ namespace Yarn.Unity {
 		void Start () {
 			FindObjectOfType<DialogueRunner> ().StartDialogue ("Start");
 		}
-		
-		// Update is called once per frame
-		void Update () {
-			
-		}
 	}
 }
