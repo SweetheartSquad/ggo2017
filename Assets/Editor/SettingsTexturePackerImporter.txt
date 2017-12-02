@@ -2,11 +2,8 @@ version: 2
 importPivots: 0
 tpsheetFileNames:
 - Assets/codeandweb.com/Example/SpriteSheet/sprites.tpsheet
-- Assets/TextMesh Pro/Sprites/textures.tpsheet
 textureFileNames:
 - Assets/codeandweb.com/Example/SpriteSheet/sprites.png
-- Assets/TextMesh Pro/Sprites/textures.png
 normalmapFileNames:
 - Assets/codeandweb.com/Example/SpriteSheet/sprites_n.png
-- 
 enableDebugOutput: 0
